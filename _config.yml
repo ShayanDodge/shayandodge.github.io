@@ -29,11 +29,11 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Italy, Pisa"
   employer         : "University of Pisa"
-  uri              : # URL
+  uri              : "https://destec.unipi.it/people/dodge-shayan"
   email            : "dodgeshayan@gmail.com" 
 
   # Academic websites
-  academia         : "https://destec.unipi.it/people/dodge-shayan"
+  academia         : "https://pisa.academia.edu/ShayanDodge"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=1usufq0AAAAJ"
   inspire-hep      : # URL
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Shayan-Dodge"
   scopus           : # URL
   zotero           : # URL
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "shayan-dodge-441453204"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
