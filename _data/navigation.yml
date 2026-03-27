@@ -16,7 +16,8 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+      url: /files/Shayan_CV_27032026.pdf
 
   - title: "Projects"
     url: /teaching/   
