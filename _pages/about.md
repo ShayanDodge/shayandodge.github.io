@@ -40,14 +40,6 @@ redirect_from:
 
     <table style="width: 100%; border-collapse: collapse; font-size: 0.94rem;">
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.45rem 0; color: #475569;">Citations</td>
-        <td style="padding: 0.45rem 0; text-align: right; font-weight: 700; color: #1e40af;">33</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.45rem 0; color: #475569;">h-index</td>
-        <td style="padding: 0.45rem 0; text-align: right; font-weight: 700;">4</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #e2e8f0;">
         <td style="padding: 0.45rem 0; color: #475569;">Journal Papers</td>
         <td style="padding: 0.45rem 0; text-align: right; font-weight: 700; color: #1e40af;">8</td>
       </tr>
@@ -58,6 +50,14 @@ redirect_from:
       <tr>
         <td style="padding: 0.6rem 0 0.3rem 0; color: #475569; font-weight: 500;">Total Publications</td>
         <td style="padding: 0.6rem 0 0.3rem 0; text-align: right; font-weight: 700; color: #334155;">17</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 0.45rem 0; color: #475569;">Citations</td>
+        <td style="padding: 0.45rem 0; text-align: right; font-weight: 700; color: #1e40af;">33</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 0.45rem 0; color: #475569;">h-index</td>
+        <td style="padding: 0.45rem 0; text-align: right; font-weight: 700;">4</td>
       </tr>
     </table>
 
