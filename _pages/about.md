@@ -38,10 +38,10 @@ redirect_from:
     <div style="display: grid; grid-template-columns: 1fr auto; gap: 0.18rem 0.85rem; font-size: 0.76rem; line-height: 1.35;">
       
       <div style="color: #4b5563;">Position</div>
-      <div style="font-weight: 600; text-align: right;">PhD Candidate</div>
+      <div style="font-weight: 600; text-align: right;">PhD Cand</div>
 
       <div style="color: #4b5563;">Field</div>
-      <div style="font-weight: 600; text-align: right;">Elec. Engineering</div>
+      <div style="font-weight: 600; text-align: right;">Elec. Eng.</div>
 
       <div style="color: #4b5563;">Focus</div>
       <div style="font-weight: 600; text-align: right;">AI + EM</div>
