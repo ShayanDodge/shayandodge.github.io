@@ -52,20 +52,31 @@ For a full list, see the [Publications](/publications/) page.
 
 ---
 
-## Technical Skills
+## 🚀 Key Contributions
 
-- **Computational EM**: ANSYS Maxwell, CST Studio Suite, FEniCS, Gmsh  
-- **Programming**: Python, MATLAB, C++, CUDA  
-- **Machine Learning**: PyTorch, TensorFlow, JAX, PINNs, DeepONet  
-- **HPC**: GPU acceleration, parallel computing  
+**Physics-Informed Neural Networks for Electromagnetics**  
+Developed advanced PINN frameworks (including STAR-PINN and variational PINNs) for solving time-domain and nonlinear electromagnetic problems with improved accuracy and stability.
+
+**Hybrid Numerical–AI Methods**  
+Proposed hybrid approaches combining classical numerical techniques (FEM/BEM) with physics-informed neural networks, enabling efficient and scalable solutions for complex electromagnetic systems.
+
+**AI-Based Lightning and Power-System Modeling**  
+Designed deep learning models for lightning location, precursor detection, and induced overvoltage prediction in power systems, improving real-time analysis capabilities.
+
+**Inverse Electromagnetic Modeling**  
+Developed machine learning methods for inverse electromagnetic field reconstruction, with applications in personalized transcranial magnetic stimulation (TMS).
+
+**Bioelectromagnetics & Multiphysics Applications**  
+Applied deep learning and PINN-based models to biomedical problems, including SAR estimation, electromagnetic exposure analysis, and medical imaging.
+
+My work integrates the full simulation pipeline, from numerical modeling and solver development to machine learning integration, high-performance computing, and data-driven optimization.
 
 ---
 
-## Honors & Awards
+## 💡 Recent News
 
-- Research Grant Winner – University of Pisa (2024)  
-- Ranked 1st in MSc Plasma Physics – Shahid Beheshti University  
-- Ranked 1st in BSc Physics – Kharazmi University  
-- Top 1.5% in Iran National Entrance Exam (2013)  
+- **[2026]** Multiple journal and conference papers submitted and accepted on PINNs, neural operators, and AI-driven electromagnetics.  
+- **[2025]** Published several works on deep learning for lightning modeling and electromagnetic analysis in *IEEE Access* and *Electric Power Systems Research*.  
+- **[2024]** Awarded a research grant at the University of Pisa for work on machine learning applications in electromagnetics.  
 
 ---
