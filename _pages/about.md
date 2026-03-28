@@ -35,7 +35,7 @@ redirect_from:
       RESEARCH PROFILE
     </div>
 
-    <table style="width: 100%; border-collapse: collapse; font-size: 0.84rem;">
+    <table style="width: 60%; border-collapse: collapse; font-size: 0.84rem;">
       <tr style="border-bottom: 1px solid #e2e8f0;">
         <td style="padding: 0.2rem 0; color: #475569;">Citations</td>
         <td style="padding: 0.2rem 0; text-align: right; font-weight: 600; color: #1e40af;">33</td>
