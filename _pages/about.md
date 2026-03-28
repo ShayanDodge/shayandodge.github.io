@@ -9,30 +9,27 @@ redirect_from:
 
 ## About Me
 
-<div style="display: flex; gap: 2rem; align-items: stretch; margin-top: 1rem;">
+<div style="display: flex; gap: 2rem; align-items: stretch; margin: 2rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155;">
 
-<div style="flex: 2.2; line-height: 1.8; font-size: 1.05em;">
+  <div style="flex: 2; line-height: 1.75; font-size: 1.05rem;">
+    <h2 style="margin-top: 0; color: #0f172a; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem;">About Me</h2>
+    <p>
+      Shayan Dodge operates at the cutting edge of <strong>computational electromagnetics</strong> and <strong>artificial intelligence</strong>. His research specializes in integrating high-fidelity numerical methods—including FEM, FDTD, and BEM—with physics-informed neural networks (PINNs).
+    </p>
+    <p>
+      By developing scalable, physics-consistent surrogate models, Shayan enables real-time electromagnetic analysis and design optimization within complex, multi-physics environments.
+    </p>
+  </div>
 
-Shayan Dodge works at the intersection of computational electromagnetics and artificial intelligence. His research integrates high-fidelity numerical methods, including the finite element method (FEM), finite-difference time-domain (FDTD), and boundary element method (BEM), with physics-informed neural networks to develop scalable, physics-consistent surrogate models for electromagnetic systems. His work aims to advance next-generation machine learning frameworks that enable real-time electromagnetic analysis and design optimization in complex multiphysics environments.
-
-</div>
-
-<div style="flex: 1; background: linear-gradient(135deg, #f8f9fa, #eef2f7); padding: 1.2rem 1.4rem; border-radius: 14px; box-shadow: 0 4px 14px rgba(0,0,0,0.06); border: 1px solid #e5e7eb;">
-
-<div style="font-size: 1.15em; font-weight: 700; margin-bottom: 0.9rem; color: #2c3e50;">
-Quick Facts
-</div>
-
-<div style="line-height: 1.9; font-size: 0.8em;">
-<strong>Position:</strong> PhD Candidate<br>
-<strong>Field:</strong> Electrical Engineering<br>
-<strong>Focus:</strong> AI + Electromagnetics<br>
-<strong>Publications:</strong> 17+<br>
-<strong>h-index:</strong> 4<br>
-<strong>Location:</strong> Pisa, Italy
-</div>
-
-</div>
+  <div style="flex: 0.8; background: #f8fafc; padding: 1.5rem; border-radius: 12px; border: 1px solid #e2e8f0; display: flex; flex-direction: column; justify-content: center;">
+    <div style="font-weight: 700; color: #1e293b; margin-bottom: 1rem; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 0.05em;">Research Profile</div>
+    <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.9rem; line-height: 2;">
+      <li style="border-bottom: 1px solid #f1f5f9;"><strong>Role:</strong> PhD Candidate</li>
+      <li style="border-bottom: 1px solid #f1f5f9;"><strong>Focus:</strong> AI + EM Physics</li>
+      <li style="border-bottom: 1px solid #f1f5f9;"><strong>Impact:</strong> 17+ Pubs (h-4)</li>
+      <li><strong>Base:</strong> Pisa, Italy</li>
+    </ul>
+  </div>
 
 </div>
 
