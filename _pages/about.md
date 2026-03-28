@@ -69,11 +69,3 @@ For a full list, see the [Publications](/publications/) page.
 - Top 1.5% in Iran National Entrance Exam (2013)  
 
 ---
-
-## Contact
-
-- 📧 dodgeshayan@gmail.com  
-- 📧 shayan.dodge@phd.unipi.it  
-- ORCID | Google Scholar | LinkedIn (see sidebar)
-
----
