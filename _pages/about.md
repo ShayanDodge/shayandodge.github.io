@@ -27,35 +27,35 @@ redirect_from:
     </p>
   </div>
 
-<!-- Super Small Quick Facts -->
-<div style="flex: 0.52; background: #f9fafb; padding: 0.7rem 0.9rem; border-radius: 10px; 
-            border: 1px solid #e5e7eb; box-shadow: 0 3px 6px -3px rgb(0 0 0 / 0.04); height: fit-content;">
 
-  <div style="font-weight: 700; color: #111827; margin-bottom: 0.5rem; 
-              font-size: 0.7rem; letter-spacing: 0.08em;">
+<!-- Ultra Compact Quick Facts -->
+<div style="flex:0.5; background:#f9fafb; padding:0.5rem 0.6rem; border-radius:8px; 
+            border:1px solid #e5e7eb; font-size:0.72rem; line-height:1.25;">
+
+  <div style="font-weight:700; font-size:0.62rem; letter-spacing:0.08em; 
+              margin-bottom:0.35rem; color:#111827;">
     QUICK FACTS
   </div>
 
-  <div style="display: grid; grid-template-columns: 1fr auto; 
-              gap: 0.25rem 0.9rem; font-size: 0.78rem; line-height: 1.4;">
-    
-    <div style="color: #6b7280;">Position</div>
-    <div style="font-weight: 600; text-align: right;">PhD Cand.</div>
+  <div style="display:grid; grid-template-columns:1fr auto; gap:0.15rem 0.5rem;">
 
-    <div style="color: #6b7280;">Field</div>
-    <div style="font-weight: 600; text-align: right;">Elec. Eng.</div>
+    <span style="color:#6b7280;">Pos</span>
+    <span style="text-align:right;">PhD Cand.</span>
 
-    <div style="color: #6b7280;">Focus</div>
-    <div style="font-weight: 600; text-align: right;">AI + EM</div>
+    <span style="color:#6b7280;">Field</span>
+    <span style="text-align:right;">Elec. Eng.</span>
 
-    <div style="color: #6b7280;">Pubs</div>
-    <div style="font-weight: 700; color: #1d4ed8; text-align: right;">17+</div>
+    <span style="color:#6b7280;">Focus</span>
+    <span style="text-align:right;">AI+EM</span>
 
-    <div style="color: #6b7280;">h-idx</div>
-    <div style="font-weight: 600; text-align: right;">4</div>
+    <span style="color:#6b7280;">Pubs</span>
+    <span style="text-align:right; font-weight:700;">17+</span>
 
-    <div style="color: #6b7280;">Loc</div>
-    <div style="font-weight: 600; text-align: right;">Pisa, IT</div>
+    <span style="color:#6b7280;">h</span>
+    <span style="text-align:right;">4</span>
+
+    <span style="color:#6b7280;">Loc</span>
+    <span style="text-align:right;">Pisa</span>
 
   </div>
 
