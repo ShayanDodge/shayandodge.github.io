@@ -27,7 +27,7 @@ redirect_from:
   </div>
 
   <!-- Ultra Compact Research Profile -->
-  <div style="flex: 0.72; background: #f8fafc; padding: 0.85rem 1.1rem; border-radius: 10px; 
+  <div style="flex: 0.72; background: #f8fafc; padding: 0.5rem 1.1rem; border-radius: 10px; 
               border: 1px solid #e2e8f0; height: fit-content; box-shadow: 0 4px 8px -3px rgb(0 0 0 / 0.03);">
 
     <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.55rem; text-transform: uppercase; 
