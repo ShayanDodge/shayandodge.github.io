@@ -23,7 +23,7 @@ Shayan Dodge works at the intersection of computational electromagnetics and art
 Quick Facts
 </div>
 
-<div style="line-height: 1.9; font-size: 0.98em;">
+<div style="line-height: 1.9; font-size: 0.8em;">
 <strong>Position:</strong> PhD Candidate<br>
 <strong>Field:</strong> Electrical Engineering<br>
 <strong>Focus:</strong> AI + Electromagnetics<br>
