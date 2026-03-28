@@ -39,7 +39,7 @@ redirect_from:
 
   <div style="display:grid; grid-template-columns:1fr auto; gap:0.15rem 0.5rem;">
 
-    <span style="color:#6b7280;">Pos</span>
+    <span style="color:#6b7280;">Position</span>
     <span style="text-align:right;">PhD Cand.</span>
 
     <span style="color:#6b7280;">Field</span>
