@@ -44,11 +44,12 @@ University of Pisa, Italy (Jan 2024 – Jan 2026)
 
 ## Publications & Research
 
-- **17+ peer-reviewed publications** (13 journal articles, 4 conference papers)  
-- Topics include PINNs, electromagnetic modeling, deep learning, and lightning analysis  
-- h-index: 4 (Google Scholar, 2026)
+| Metric       | Details                          |
+|--------------|----------------------------------|
+| Publications | 17+ (13 journals, 4 conferences) |
+| h-index      | 4 (Google Scholar, 2026)         |
 
-For a full list, see the [Publications](/publications/) page.
+[Publications →](/publications/)
 
 ---
 
