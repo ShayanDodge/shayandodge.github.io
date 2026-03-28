@@ -21,38 +21,17 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-# author:
-#   # Biographic information
-#   avatar           : "profile.png"
-#   name             : "Shayan Dodge"
-#   pronouns         : # example: "she/her"  
-#   # bio              : "Short biography for the left-hand sidebar"
-#   location         : "Pisa, Italy"
-#   employer         : "University of Pisa"
-#   uri              : "https://destec.unipi.it/people/dodge-shayan"
-#   email            : "dodgeshayan@gmail.com" 
-
 
 author:
-  name: "Shayan Dodge"
-  bio: "PhD candidate in Electrical Engineering at the University of Pisa."
-  location: "Pisa, Italy"
-  employer: "University of Pisa"
-
-  quick_facts:
-    - label: "Position"
-      value: "PhD Candidate"
-    - label: "Field"
-      value: "Electrical Engineering"
-    - label: "Focus"
-      value: "AI + Electromagnetics"
-    - label: "Publications"
-      value: "17+"
-    - label: "h-index"
-      value: "4"
-    - label: "Location"
-      value: "Pisa"
-
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Shayan Dodge"
+  pronouns         : # example: "she/her"  
+  # bio              : "Short biography for the left-hand sidebar"
+  location         : "Pisa, Italy"
+  employer         : "University of Pisa"
+  uri              : "https://destec.unipi.it/people/dodge-shayan"
+  email            : "dodgeshayan@gmail.com" 
   # Academic websites
   academia         : "https://pisa.academia.edu/ShayanDodge"
   arxiv            : # URL - Update with the correct link to your profile
