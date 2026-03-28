@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shayan Dodge | PhD Candidate in Electrical Engineering"
+title: "Shayan Dodge"
 author_profile: true
 redirect_from: 
   - /about/
