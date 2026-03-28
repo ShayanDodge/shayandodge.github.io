@@ -7,57 +7,61 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; gap: 1.25rem; align-items: stretch; margin: 1rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155; max-width: 1000px;">
+<div style="display: flex; gap: 1.5rem; align-items: stretch; margin: 1.2rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155; max-width: 1050px;">
 
-  <!-- Main About Me -->
-  <div style="flex: 2; line-height: 1.6; font-size: 0.98rem;">
-    <h2 style="margin: 0 0 0.75rem 0; color: #0f172a; font-size: 1.5rem; font-weight: 700; 
-               border-bottom: 3px solid #3b82f6; padding-bottom: 0.45rem; display: inline-block;">
+  <!-- Main About Me - Expanded -->
+  <div style="flex: 2; line-height: 1.65; font-size: 0.99rem;">
+    <h2 style="margin: 0 0 0.85rem 0; color: #0f172a; font-size: 1.55rem; font-weight: 700; 
+               border-bottom: 3px solid #3b82f6; padding-bottom: 0.5rem; display: inline-block;">
       About Me
     </h2>
     
-    <p style="margin-bottom: 0.7rem;">
-      Shayan Dodge works at the intersection of <strong>computational electromagnetics</strong> and <strong>AI</strong>. 
-      His research integrates FEM, FDTD, BEM with physics-informed neural networks (PINNs).
+    <p style="margin-bottom: 0.75rem;">
+      Shayan Dodge works at the intersection of <strong>computational electromagnetics</strong> and <strong>artificial intelligence</strong>. 
+      His research integrates high-fidelity numerical methods (FEM, FDTD, BEM) with physics-informed neural networks (PINNs).
     </p>
     
-    <p style="margin-bottom: 0;">
-      He develops scalable surrogate models for real-time EM analysis and optimization in multi-physics systems.
+    <p style="margin-bottom: 0.75rem;">
+      He develops scalable, physics-consistent surrogate models that enable real-time electromagnetic analysis and design optimization 
+      in complex multi-physics environments.
+    </p>
+
+    <p style="margin-bottom: 0; color: #475569; font-size: 0.96rem;">
+      Currently a PhD Candidate based in Pisa, Italy, with 17+ publications focusing on AI-accelerated electromagnetic modeling and simulation.
     </p>
   </div>
 
-  <!-- Ultra Compact Research Profile -->
-  <div style="flex: 0.72; background: #f8fafc; padding: 0.5rem 1.0rem; border-radius: 5px; 
+  <!-- Compact Research Profile -->
+  <div style="flex: 0.75; background: #f8fafc; padding: 0.85rem 1.15rem; border-radius: 10px; 
               border: 1px solid #e2e8f0; height: fit-content; box-shadow: 0 4px 8px -3px rgb(0 0 0 / 0.03);">
 
-    <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.55rem; text-transform: uppercase; 
-                font-size: 0.72rem; letter-spacing: 0.8px;">
+    <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.65rem; text-transform: uppercase; 
+                font-size: 0.73rem; letter-spacing: 0.7px;">
       RESEARCH PROFILE
     </div>
 
-    <table style="width: 60%; border-collapse: collapse; font-size: 0.84rem;">
+    <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem;">
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.2rem 0; color: #475569;">Citations</td>
-        <td style="padding: 0.2rem 0; text-align: right; font-weight: 600; color: #1e40af;">33</td>
+        <td style="padding: 0.28rem 0; color: #475569;">Citations</td>
+        <td style="padding: 0.28rem 0; text-align: right; font-weight: 600; color: #1e40af;">33</td>
       </tr>
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.2rem 0; color: #475569;">h-index</td>
-        <td style="padding: 0.2rem 0; text-align: right; font-weight: 600;">4</td>
+        <td style="padding: 0.28rem 0; color: #475569;">h-index</td>
+        <td style="padding: 0.28rem 0; text-align: right; font-weight: 600;">4</td>
       </tr>
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.2rem 0; color: #475569;">Journal</td>
-        <td style="padding: 0.2rem 0; text-align: right; font-weight: 600; color: #1e40af;">8</td>
+        <td style="padding: 0.28rem 0; color: #475569;">Journal</td>
+        <td style="padding: 0.28rem 0; text-align: right; font-weight: 600; color: #1e40af;">8</td>
       </tr>
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.2rem 0; color: #475569;">Conference</td>
-        <td style="padding: 0.2rem 0; text-align: right; font-weight: 600; color: #1e40af;">9</td>
+        <td style="padding: 0.28rem 0; color: #475569;">Conference</td>
+        <td style="padding: 0.28rem 0; text-align: right; font-weight: 600; color: #1e40af;">9</td>
       </tr>
       <tr>
-        <td style="padding: 0.3rem 0 0.15rem 0; color: #475569;">Total</td>
-        <td style="padding: 0.3rem 0 0.15rem 0; text-align: right; font-weight: 600; color: #334155;">17</td>
+        <td style="padding: 0.4rem 0 0.2rem 0; color: #475569;">Total</td>
+        <td style="padding: 0.4rem 0 0.2rem 0; text-align: right; font-weight: 600; color: #334155;">17</td>
       </tr>
     </table>
-
   </div>
 
 </div>
