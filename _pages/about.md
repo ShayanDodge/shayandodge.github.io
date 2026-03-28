@@ -37,24 +37,24 @@ redirect_from:
 
     <table style="width: 100%; border-collapse: collapse; font-size: 0.84rem;">
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.28rem 0; color: #475569;">Citations</td>
-        <td style="padding: 0.28rem 0; text-align: right; font-weight: 600; color: #1e40af;">33</td>
+        <td style="padding: 0.2rem 0; color: #475569;">Citations</td>
+        <td style="padding: 0.2rem 0; text-align: right; font-weight: 600; color: #1e40af;">33</td>
       </tr>
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.28rem 0; color: #475569;">h-index</td>
-        <td style="padding: 0.28rem 0; text-align: right; font-weight: 600;">4</td>
+        <td style="padding: 0.2rem 0; color: #475569;">h-index</td>
+        <td style="padding: 0.2rem 0; text-align: right; font-weight: 600;">4</td>
       </tr>
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.28rem 0; color: #475569;">Journal</td>
-        <td style="padding: 0.28rem 0; text-align: right; font-weight: 600; color: #1e40af;">8</td>
+        <td style="padding: 0.2rem 0; color: #475569;">Journal</td>
+        <td style="padding: 0.2rem 0; text-align: right; font-weight: 600; color: #1e40af;">8</td>
       </tr>
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.28rem 0; color: #475569;">Conference</td>
-        <td style="padding: 0.28rem 0; text-align: right; font-weight: 600; color: #1e40af;">9</td>
+        <td style="padding: 0.2rem 0; color: #475569;">Conference</td>
+        <td style="padding: 0.2rem 0; text-align: right; font-weight: 600; color: #1e40af;">9</td>
       </tr>
       <tr>
-        <td style="padding: 0.38rem 0 0.15rem 0; color: #475569;">Total</td>
-        <td style="padding: 0.38rem 0 0.15rem 0; text-align: right; font-weight: 600; color: #334155;">17</td>
+        <td style="padding: 0.3rem 0 0.15rem 0; color: #475569;">Total</td>
+        <td style="padding: 0.3rem 0 0.15rem 0; text-align: right; font-weight: 600; color: #334155;">17</td>
       </tr>
     </table>
 
