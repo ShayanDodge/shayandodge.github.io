@@ -6,59 +6,55 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="display: flex; gap: 2rem; align-items: flex-start; margin: 2rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #1f2937; max-width: 1100px;">
 
-<div style="display: flex; gap: 1.5rem; align-items: stretch; margin: 1.2rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155; max-width: 1050px;">
-
-  <!-- Main About Me -->
-  <div style="flex: 2; line-height: 1.65; font-size: 0.99rem;">
-    <h2 style="margin: 0 0 0.85rem 0; color: #0f172a; font-size: 1.55rem; font-weight: 700; 
-               border-bottom: 3px solid #3b82f6; padding-bottom: 0.5rem; display: inline-block;">
+  <!-- About Me -->
+  <div style="flex: 2;">
+    <h2 style="margin: 0 0 1.2rem 0; color: #111827; font-size: 1.75rem; font-weight: 700; 
+               position: relative; display: inline-block;">
       About Me
+      <span style="position: absolute; bottom: -6px; left: 0; width: 52px; height: 3px; background: #2563eb; border-radius: 3px;"></span>
     </h2>
     
-    <p style="margin-bottom: 0.75rem;">
+    <p style="margin-bottom: 1.1rem; line-height: 1.78; font-size: 1.06rem;">
       Shayan Dodge works at the intersection of <strong>computational electromagnetics</strong> and <strong>artificial intelligence</strong>. 
       His research integrates high-fidelity numerical methods (FEM, FDTD, BEM) with physics-informed neural networks (PINNs).
     </p>
     
-    <p style="margin-bottom: 0;">
-      He develops scalable surrogate models for real-time electromagnetic analysis and design optimization in complex multi-physics environments.
+    <p style="margin-bottom: 0; line-height: 1.78; font-size: 1.06rem;">
+      He develops scalable surrogate models for real-time electromagnetic analysis and design optimization 
+      in complex multi-physics environments.
     </p>
   </div>
 
-  <!-- Quick Facts Card - Matching the new style -->
-  <div style="flex: 0.78; background: #f8fafc; padding: 1rem 1.25rem; border-radius: 12px; 
-              border: 1px solid #e2e8f0; height: fit-content; box-shadow: 0 4px 8px -3px rgb(0 0 0 / 0.03);">
+  <!-- Quick Facts - Clean & Modern -->
+  <div style="flex: 0.85; background: #f9fafb; padding: 1.6rem 1.75rem; border-radius: 16px; 
+              border: 1px solid #e5e7eb; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05);">
 
-    <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.9rem; font-size: 0.85rem; letter-spacing: 0.4px;">
+    <div style="font-weight: 700; color: #111827; margin-bottom: 1.25rem; font-size: 0.95rem; letter-spacing: 0.5px;">
       QUICK FACTS
     </div>
 
-    <div style="font-size: 0.88rem; line-height: 2.05;">
-      <div style="display: flex; justify-content: space-between; padding: 0.25rem 0; border-bottom: 1px solid #e2e8f0;">
-        <span style="color: #475569;">Position</span>
-        <span style="font-weight: 600;">PhD Candidate</span>
-      </div>
-      <div style="display: flex; justify-content: space-between; padding: 0.25rem 0; border-bottom: 1px solid #e2e8f0;">
-        <span style="color: #475569;">Field</span>
-        <span style="font-weight: 600;">Electrical Engineering</span>
-      </div>
-      <div style="display: flex; justify-content: space-between; padding: 0.25rem 0; border-bottom: 1px solid #e2e8f0;">
-        <span style="color: #475569;">Focus</span>
-        <span style="font-weight: 600;">AI + Electromagnetics</span>
-      </div>
-      <div style="display: flex; justify-content: space-between; padding: 0.25rem 0; border-bottom: 1px solid #e2e8f0;">
-        <span style="color: #475569;">Publications</span>
-        <span style="font-weight: 600; color: #1e40af;">17+</span>
-      </div>
-      <div style="display: flex; justify-content: space-between; padding: 0.25rem 0; border-bottom: 1px solid #e2e8f0;">
-        <span style="color: #475569;">h-index</span>
-        <span style="font-weight: 600;">4</span>
-      </div>
-      <div style="display: flex; justify-content: space-between; padding: 0.25rem 0;">
-        <span style="color: #475569;">Location</span>
-        <span style="font-weight: 600;">Pisa, Italy</span>
-      </div>
+    <div style="display: grid; grid-template-columns: 1fr auto; gap: 0.85rem 1.5rem; font-size: 1.02rem; line-height: 1.65;">
+      
+      <div style="color: #4b5563;">Position</div>
+      <div style="font-weight: 600; text-align: right;">PhD Candidate</div>
+
+      <div style="color: #4b5563;">Field</div>
+      <div style="font-weight: 600; text-align: right;">Electrical Engineering</div>
+
+      <div style="color: #4b5563;">Focus</div>
+      <div style="font-weight: 600; text-align: right;">AI + Electromagnetics</div>
+
+      <div style="color: #4b5563;">Publications</div>
+      <div style="font-weight: 600; color: #1e40af; text-align: right;">17+</div>
+
+      <div style="color: #4b5563;">h-index</div>
+      <div style="font-weight: 600; text-align: right;">4</div>
+
+      <div style="color: #4b5563;">Location</div>
+      <div style="font-weight: 600; text-align: right;">Pisa, Italy</div>
+
     </div>
 
   </div>
