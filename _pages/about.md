@@ -7,57 +7,55 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; gap: 2rem; align-items: stretch; margin: 2.5rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155; max-width: 1000px;">
+<div style="display: flex; gap: 1.5rem; align-items: stretch; margin: 1.5rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155; max-width: 1000px;">
 
   <!-- Main About Me -->
-  <div style="flex: 2; line-height: 1.75; font-size: 1.05rem;">
-    <h2 style="margin: 0 0 1rem 0; color: #0f172a; font-size: 1.65rem; font-weight: 700; 
-               border-bottom: 3px solid #3b82f6; padding-bottom: 0.6rem; display: inline-block;">
+  <div style="flex: 2; line-height: 1.65; font-size: 1rem;">
+    <h2 style="margin: 0 0 0.9rem 0; color: #0f172a; font-size: 1.55rem; font-weight: 700; 
+               border-bottom: 3px solid #3b82f6; padding-bottom: 0.5rem; display: inline-block;">
       About Me
     </h2>
     
-    <p style="margin-bottom: 1rem;">
-      Shayan Dodge operates at the cutting edge of <strong>computational electromagnetics</strong> and <strong>artificial intelligence</strong>. 
-      His research focuses on integrating high-fidelity numerical methods (FEM, FDTD, BEM) with physics-informed neural networks (PINNs).
+    <p style="margin-bottom: 0.8rem;">
+      Shayan Dodge works at the intersection of <strong>computational electromagnetics</strong> and <strong>AI</strong>. 
+      His research integrates FEM, FDTD, BEM with physics-informed neural networks (PINNs).
     </p>
     
     <p style="margin-bottom: 0;">
-      He develops scalable, physics-consistent surrogate models that enable real-time electromagnetic analysis and design optimization 
-      in complex multi-physics environments.
+      He develops scalable surrogate models for real-time EM analysis and optimization in multi-physics systems.
     </p>
   </div>
 
-  <!-- Compact Research Profile -->
-  <div style="flex: 0.9; background: #f8fafc; padding: 1.25rem 1.5rem; border-radius: 14px; 
-              border: 1px solid #e2e8f0; box-shadow: 0 8px 12px -4px rgb(0 0 0 / 0.04); height: fit-content;">
+  <!-- Ultra Compact Research Profile -->
+  <div style="flex: 0.75; background: #f8fafc; padding: 1rem 1.2rem; border-radius: 12px; 
+              border: 1px solid #e2e8f0; box-shadow: 0 6px 10px -4px rgb(0 0 0 / 0.04); height: fit-content;">
 
-    <div style="font-weight: 700; color: #1e293b; margin-bottom: 1rem; text-transform: uppercase; 
-                font-size: 0.8rem; letter-spacing: 0.05em;">
+    <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.7rem; text-transform: uppercase; 
+                font-size: 0.73rem; letter-spacing: 0.6px;">
       RESEARCH PROFILE
     </div>
 
-    <table style="width: 100%; border-collapse: collapse; font-size: 0.94rem;">
+    <table style="width: 100%; border-collapse: collapse; font-size: 0.86rem;">
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.4rem 0; color: #475569;">Citations</td>
-        <td style="padding: 0.4rem 0; text-align: right; font-weight: 500; color: #1e40af;">33</td>
+        <td style="padding: 0.32rem 0; color: #475569;">Citations</td>
+        <td style="padding: 0.32rem 0; text-align: right; font-weight: 600; color: #1e40af;">33</td>
       </tr>
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.4rem 0; color: #475569;">h-index</td>
-        <td style="padding: 0.4rem 0; text-align: right; font-weight: 500;">4</td>
+        <td style="padding: 0.32rem 0; color: #475569;">h-index</td>
+        <td style="padding: 0.32rem 0; text-align: right; font-weight: 600;">4</td>
       </tr>
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.4rem 0; color: #475569;">Journal Papers</td>
-        <td style="padding: 0.4rem 0; text-align: right; font-weight: 500; color: #1e40af;">8</td>
+        <td style="padding: 0.32rem 0; color: #475569;">Journal</td>
+        <td style="padding: 0.32rem 0; text-align: right; font-weight: 600; color: #1e40af;">8</td>
       </tr>
       <tr style="border-bottom: 1px solid #e2e8f0;">
-        <td style="padding: 0.4rem 0; color: #475569;">Conference Papers</td>
-        <td style="padding: 0.4rem 0; text-align: right; font-weight: 500; color: #1e40af;">9</td>
+        <td style="padding: 0.32rem 0; color: #475569;">Conference</td>
+        <td style="padding: 0.32rem 0; text-align: right; font-weight: 600; color: #1e40af;">9</td>
       </tr>
       <tr>
-        <td style="padding: 0.4rem 0 0.3rem 0; color: #475569; font-weight: 500;">Total Publications</td>
-        <td style="padding: 0.4rem 0 0.3rem 0; text-align: right; font-weight: 500; color: #334155;">17</td>
+        <td style="padding: 0.45rem 0 0.2rem 0; color: #475569; font-weight: 500;">Total</td>
+        <td style="padding: 0.45rem 0 0.2rem 0; text-align: right; font-weight: 600; color: #334155;">17</td>
       </tr>
-
     </table>
 
   </div>
