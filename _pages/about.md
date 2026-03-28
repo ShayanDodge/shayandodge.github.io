@@ -9,9 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a PhD candidate in Electrical Engineering at the University of Pisa (DESTEC), working at the intersection of computational electromagnetics and artificial intelligence. :contentReference[oaicite:0]{index=0}
-
-My research focuses on integrating high-fidelity numerical solvers (FEM, FDTD, BEM) with physics-informed neural networks to develop scalable and physics-consistent surrogate models for electromagnetic systems. :contentReference[oaicite:1]{index=1}
+Shayan Dodge works at the intersection of computational electromagnetics and artificial intelligence. His research integrates high-fidelity numerical methods, including the finite element method (FEM), finite-difference time-domain (FDTD), and boundary element method (BEM), with physics-informed neural networks to develop scalable, physics-consistent surrogate models for electromagnetic systems. His work aims to advance next-generation machine learning frameworks that enable real-time electromagnetic analysis and design optimization in complex multiphysics environments.
 
 ---
 
