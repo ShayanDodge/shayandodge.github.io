@@ -9,25 +9,49 @@ redirect_from:
 
 ## About Me
 
-<div style="display: flex; gap: 2rem; align-items: stretch; margin: 2rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155;">
+<div style="display: flex; gap: 2rem; align-items: stretch; margin: 2rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155; max-width: 1000px;">
 
+  <!-- Main Content -->
   <div style="flex: 2; line-height: 1.75; font-size: 1.05rem;">
-    <h2 style="margin-top: 0; color: #0f172a; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem;">About Me</h2>
-    <p>
-      Shayan Dodge operates at the cutting edge of <strong>computational electromagnetics</strong> and <strong>artificial intelligence</strong>. His research specializes in integrating high-fidelity numerical methods—including FEM, FDTD, and BEM—with physics-informed neural networks (PINNs).
+    <h2 style="margin: 0 0 1.25rem 0; color: #0f172a; font-size: 1.6rem; font-weight: 700; border-bottom: 3px solid #3b82f6; padding-bottom: 0.75rem; display: inline-block;">
+      About Me
+    </h2>
+    
+    <p style="margin-bottom: 1.25rem;">
+      Shayan Dodge operates at the cutting edge of <strong>computational electromagnetics</strong> and <strong>artificial intelligence</strong>. 
+      His research specializes in integrating high-fidelity numerical methods — including FEM, FDTD, and BEM — with physics-informed neural networks (PINNs).
     </p>
-    <p>
-      By developing scalable, physics-consistent surrogate models, Shayan enables real-time electromagnetic analysis and design optimization within complex, multi-physics environments.
+    
+    <p style="margin-bottom: 0;">
+      By developing scalable, physics-consistent surrogate models, Shayan enables real-time electromagnetic analysis and design optimization 
+      in complex, multi-physics environments.
     </p>
   </div>
 
-  <div style="flex: 0.8; background: #f8fafc; padding: 1.5rem; border-radius: 12px; border: 1px solid #e2e8f0; display: flex; flex-direction: column; justify-content: center;">
-    <div style="font-weight: 700; color: #1e293b; margin-bottom: 1rem; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 0.05em;">Research Profile</div>
-    <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.9rem; line-height: 2;">
-      <li style="border-bottom: 1px solid #f1f5f9;"><strong>Role:</strong> PhD Candidate</li>
-      <li style="border-bottom: 1px solid #f1f5f9;"><strong>Focus:</strong> AI + EM Physics</li>
-      <li style="border-bottom: 1px solid #f1f5f9;"><strong>Impact:</strong> 17+ Pubs (h-4)</li>
-      <li><strong>Base:</strong> Pisa, Italy</li>
+  <!-- Research Profile Sidebar -->
+  <div style="flex: 0.85; background: linear-gradient(145deg, #f8fafc, #f1f5f9); 
+              padding: 1.75rem; border-radius: 16px; border: 1px solid #e2e8f0; 
+              box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05); display: flex; flex-direction: column; justify-content: center;">
+    
+    <div style="font-weight: 700; color: #1e293b; margin-bottom: 1.25rem; 
+                text-transform: uppercase; font-size: 0.8rem; letter-spacing: 0.08em; 
+                border-bottom: 1px solid #cbd5e1; padding-bottom: 0.75rem;">
+      Research Profile
+    </div>
+    
+    <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.95rem; line-height: 2.1;">
+      <li style="border-bottom: 1px solid #f1f5f9; padding-bottom: 0.75rem; margin-bottom: 0.75rem;">
+        <strong style="color: #475569;">Role:</strong> PhD Candidate
+      </li>
+      <li style="border-bottom: 1px solid #f1f5f9; padding-bottom: 0.75rem; margin-bottom: 0.75rem;">
+        <strong style="color: #475569;">Focus:</strong> AI + EM Physics
+      </li>
+      <li style="border-bottom: 1px solid #f1f5f9; padding-bottom: 0.75rem; margin-bottom: 0.75rem;">
+        <strong style="color: #475569;">Impact:</strong> 17+ Publications (h-index 4)
+      </li>
+      <li>
+        <strong style="color: #475569;">Base:</strong> Pisa, Italy
+      </li>
     </ul>
   </div>
 
