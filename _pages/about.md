@@ -65,7 +65,7 @@ redirect_from:
 
 ---
 
-## 🚀 Key Contributions
+## Key Contributions
 
 **Physics-Informed Neural Networks for Electromagnetics**  
 Developed advanced PINN frameworks (including STAR-PINN and variational PINNs) for solving time-domain and nonlinear electromagnetic problems with improved accuracy and stability.
@@ -73,7 +73,7 @@ Developed advanced PINN frameworks (including STAR-PINN and variational PINNs) f
 
 ---
 
-## 💡 Recent News
+## Recent News
 
 - **[4/2026]** 
 
