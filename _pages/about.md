@@ -27,37 +27,39 @@ redirect_from:
     </p>
   </div>
 
-  <!-- Super Small Quick Facts -->
-  <div style="flex: 0.52; background: #f9fafb; padding: 0.6rem 0.85rem; border-radius: 8px; 
-              border: 1px solid #e5e7eb; box-shadow: 0 2px 4px -2px rgb(0 0 0 / 0.03); height: fit-content;">
+<!-- Super Small Quick Facts -->
+<div style="flex: 0.52; background: #f9fafb; padding: 0.7rem 0.9rem; border-radius: 10px; 
+            border: 1px solid #e5e7eb; box-shadow: 0 3px 6px -3px rgb(0 0 0 / 0.04); height: fit-content;">
 
-    <div style="font-weight: 700; color: #111827; margin-bottom: 0.45rem; font-size: 0.68rem; letter-spacing: 0.9px;">
-      QUICK FACTS
-    </div>
+  <div style="font-weight: 700; color: #111827; margin-bottom: 0.5rem; 
+              font-size: 0.7rem; letter-spacing: 0.08em;">
+    QUICK FACTS
+  </div>
 
-    <div style="display: grid; grid-template-columns: 1fr auto; gap: 0.18rem 0.85rem; font-size: 0.76rem; line-height: 1.35;">
-      
-      <div style="color: #4b5563;">Position</div>
-      <div style="font-weight: 600; text-align: right;">PhD Cand</div>
+  <div style="display: grid; grid-template-columns: 1fr auto; 
+              gap: 0.25rem 0.9rem; font-size: 0.78rem; line-height: 1.4;">
+    
+    <div style="color: #6b7280;">Position</div>
+    <div style="font-weight: 600; text-align: right;">PhD Cand.</div>
 
-      <div style="color: #4b5563;">Field</div>
-      <div style="font-weight: 600; text-align: right;">Elec. Eng.</div>
+    <div style="color: #6b7280;">Field</div>
+    <div style="font-weight: 600; text-align: right;">Elec. Eng.</div>
 
-      <div style="color: #4b5563;">Focus</div>
-      <div style="font-weight: 600; text-align: right;">AI + EM</div>
+    <div style="color: #6b7280;">Focus</div>
+    <div style="font-weight: 600; text-align: right;">AI + EM</div>
 
-      <div style="color: #4b5563;">Publications</div>
-      <div style="font-weight: 600; color: #1e40af; text-align: right;">17+</div>
+    <div style="color: #6b7280;">Pubs</div>
+    <div style="font-weight: 700; color: #1d4ed8; text-align: right;">17+</div>
 
-      <div style="color: #4b5563;">h-index</div>
-      <div style="font-weight: 600; text-align: right;">4</div>
+    <div style="color: #6b7280;">h-idx</div>
+    <div style="font-weight: 600; text-align: right;">4</div>
 
-      <div style="color: #4b5563;">Location</div>
-      <div style="font-weight: 600; text-align: right;">Pisa, Italy</div>
-
-    </div>
+    <div style="color: #6b7280;">Loc</div>
+    <div style="font-weight: 600; text-align: right;">Pisa, IT</div>
 
   </div>
+
+</div>
 
 </div>
 ---
