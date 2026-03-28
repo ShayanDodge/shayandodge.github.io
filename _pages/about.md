@@ -37,8 +37,8 @@ University of Pisa, Italy (Jan 2024 – Jan 2026)
 ## Education
 
 - **PhD in Electrical Engineering**, University of Pisa (2024–Present)  
-- **MSc in Plasma Physics**, Shahid Beheshti University (GPA: 18.27/20)  
-- **BSc in Physics**, Kharazmi University (GPA: 18.46/20)  
+- **MSc in Plasma Physics**, Shahid Beheshti University (WES equivalent GPA: 3.87/4.00)  
+- **BSc in Physics**, Kharazmi University (WES equivalent GPA: 3.98/4.00)  
 
 ---
 
