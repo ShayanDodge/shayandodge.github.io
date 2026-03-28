@@ -9,50 +9,84 @@ redirect_from:
 
 ## About Me
 
-<div style="display: flex; gap: 2rem; align-items: stretch; margin: 2rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155; max-width: 1000px;">
+<div style="display: flex; gap: 2rem; align-items: stretch; margin: 2.5rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #334155; max-width: 1000px;">
 
-  <!-- Main Content -->
+  <!-- Main Bio -->
   <div style="flex: 2; line-height: 1.75; font-size: 1.05rem;">
-    <h2 style="margin: 0 0 1.25rem 0; color: #0f172a; font-size: 1.6rem; font-weight: 700; border-bottom: 3px solid #3b82f6; padding-bottom: 0.75rem; display: inline-block;">
+    <h2 style="margin: 0 0 1.25rem 0; color: #0f172a; font-size: 1.65rem; font-weight: 700; 
+               border-bottom: 3px solid #3b82f6; padding-bottom: 0.75rem; display: inline-block;">
       About Me
     </h2>
     
     <p style="margin-bottom: 1.25rem;">
       Shayan Dodge operates at the cutting edge of <strong>computational electromagnetics</strong> and <strong>artificial intelligence</strong>. 
-      His research specializes in integrating high-fidelity numerical methods — including FEM, FDTD, and BEM — with physics-informed neural networks (PINNs).
+      His research focuses on integrating high-fidelity numerical methods (FEM, FDTD, BEM) with physics-informed neural networks (PINNs).
     </p>
     
-    <p style="margin-bottom: 0;">
-      By developing scalable, physics-consistent surrogate models, Shayan enables real-time electromagnetic analysis and design optimization 
-      in complex, multi-physics environments.
+    <p>
+      He develops scalable, physics-consistent surrogate models that enable real-time electromagnetic analysis and design optimization 
+      in complex multi-physics environments.
     </p>
   </div>
 
-  <!-- Research Profile Sidebar -->
-  <div style="flex: 0.85; background: linear-gradient(145deg, #f8fafc, #f1f5f9); 
-              padding: 1.75rem; border-radius: 16px; border: 1px solid #e2e8f0; 
-              box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05); display: flex; flex-direction: column; justify-content: center;">
-    
-    <div style="font-weight: 700; color: #1e293b; margin-bottom: 1.25rem; 
-                text-transform: uppercase; font-size: 0.8rem; letter-spacing: 0.08em; 
-                border-bottom: 1px solid #cbd5e1; padding-bottom: 0.75rem;">
-      Research Profile
+  <!-- Right Column: Metrics + Publication Breakdown -->
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 1.25rem;">
+
+    <!-- Google Scholar Style Metrics -->
+    <div style="background: linear-gradient(145deg, #f8fafc, #f1f5f9); padding: 1.5rem; border-radius: 16px; 
+                border: 1px solid #e2e8f0; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05);">
+      <div style="font-weight: 700; color: #1e293b; margin-bottom: 1rem; text-transform: uppercase; 
+                  font-size: 0.8rem; letter-spacing: 0.06em; border-bottom: 1px solid #cbd5e1; padding-bottom: 0.75rem;">
+        Research Impact
+      </div>
+      
+      <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+        <thead>
+          <tr style="border-bottom: 2px solid #e2e8f0;">
+            <th style="text-align: left; padding: 0.5rem 0; color: #64748b; font-weight: 500;">Metric</th>
+            <th style="text-align: center; padding: 0.5rem 0; color: #64748b; font-weight: 500;">All</th>
+            <th style="text-align: center; padding: 0.5rem 0; color: #64748b; font-weight: 500;">Since 2021</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="border-bottom: 1px solid #f1f5f9;">
+            <td style="padding: 0.75rem 0; font-weight: 600;">Citations</td>
+            <td style="text-align: center; padding: 0.75rem 0; font-weight: 600; color: #1e40af;">33</td>
+            <td style="text-align: center; padding: 0.75rem 0; font-weight: 600; color: #1e40af;">33</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #f1f5f9;">
+            <td style="padding: 0.75rem 0; font-weight: 600;">h-index</td>
+            <td style="text-align: center; padding: 0.75rem 0; font-weight: 600;">4</td>
+            <td style="text-align: center; padding: 0.75rem 0; font-weight: 600;">4</td>
+          </tr>
+          <tr>
+            <td style="padding: 0.75rem 0; font-weight: 600;">i10-index</td>
+            <td style="text-align: center; padding: 0.75rem 0;">0</td>
+            <td style="text-align: center; padding: 0.75rem 0;">0</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
-    
-    <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.95rem; line-height: 2.1;">
-      <li style="border-bottom: 1px solid #f1f5f9; padding-bottom: 0.75rem; margin-bottom: 0.75rem;">
-        <strong style="color: #475569;">Role:</strong> PhD Candidate
-      </li>
-      <li style="border-bottom: 1px solid #f1f5f9; padding-bottom: 0.75rem; margin-bottom: 0.75rem;">
-        <strong style="color: #475569;">Focus:</strong> AI + EM Physics
-      </li>
-      <li style="border-bottom: 1px solid #f1f5f9; padding-bottom: 0.75rem; margin-bottom: 0.75rem;">
-        <strong style="color: #475569;">Impact:</strong> 17+ Publications (h-index 4)
-      </li>
-      <li>
-        <strong style="color: #475569;">Base:</strong> Pisa, Italy
-      </li>
-    </ul>
+
+    <!-- Publication Breakdown (smaller & clean) -->
+    <div style="background: #f8fafc; padding: 1.25rem; border-radius: 14px; border: 1px solid #e2e8f0; font-size: 0.92rem;">
+      <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.9rem; font-size: 0.82rem; 
+                  text-transform: uppercase; letter-spacing: 0.05em;">
+        Publications
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.6rem 0; border-bottom: 1px solid #f1f5f9;">
+        <span style="color: #475569;">Journal Papers</span>
+        <span style="font-weight: 600; color: #1e40af;">8</span>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.6rem 0;">
+        <span style="color: #475569;">Conference Papers</span>
+        <span style="font-weight: 600; color: #1e40af;">9</span>
+      </div>
+      <div style="margin-top: 1rem; font-size: 0.85rem; color: #64748b; text-align: center;">
+        Total: <strong style="color: #334155;">17</strong>
+      </div>
+    </div>
+
   </div>
 
 </div>
