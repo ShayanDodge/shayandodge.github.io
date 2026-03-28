@@ -29,62 +29,48 @@ redirect_from:
     </p>
   </div>
 
-  <!-- Right Column: Metrics + Publication Breakdown -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 1.25rem;">
+  <!-- Merged Research Metrics Sidebar -->
+  <div style="flex: 0.95; background: linear-gradient(145deg, #f8fafc, #f1f5f9); padding: 1.75rem; border-radius: 16px; 
+              border: 1px solid #e2e8f0; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05); display: flex; flex-direction: column; gap: 1.75rem;">
 
-    <!-- Google Scholar Style Metrics -->
-    <div style="background: linear-gradient(145deg, #f8fafc, #f1f5f9); padding: 1.5rem; border-radius: 16px; 
-                border: 1px solid #e2e8f0; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05);">
-      <div style="font-weight: 700; color: #1e293b; margin-bottom: 1rem; text-transform: uppercase; 
-                  font-size: 0.8rem; letter-spacing: 0.06em; border-bottom: 1px solid #cbd5e1; padding-bottom: 0.75rem;">
+    <!-- Google Scholar Metrics -->
+    <div>
+      <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.9rem; text-transform: uppercase; 
+                  font-size: 0.82rem; letter-spacing: 0.06em;">
         Research Impact
       </div>
-      
       <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
-        <thead>
-          <tr style="border-bottom: 2px solid #e2e8f0;">
-            <th style="text-align: left; padding: 0.5rem 0; color: #64748b; font-weight: 500;">Metric</th>
-            <th style="text-align: center; padding: 0.5rem 0; color: #64748b; font-weight: 500;">All</th>
-            <th style="text-align: center; padding: 0.5rem 0; color: #64748b; font-weight: 500;">Since 2021</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr style="border-bottom: 1px solid #f1f5f9;">
-            <td style="padding: 0.75rem 0; font-weight: 600;">Citations</td>
-            <td style="text-align: center; padding: 0.75rem 0; font-weight: 600; color: #1e40af;">33</td>
-            <td style="text-align: center; padding: 0.75rem 0; font-weight: 600; color: #1e40af;">33</td>
-          </tr>
-          <tr style="border-bottom: 1px solid #f1f5f9;">
-            <td style="padding: 0.75rem 0; font-weight: 600;">h-index</td>
-            <td style="text-align: center; padding: 0.75rem 0; font-weight: 600;">4</td>
-            <td style="text-align: center; padding: 0.75rem 0; font-weight: 600;">4</td>
-          </tr>
-          <tr>
-            <td style="padding: 0.75rem 0; font-weight: 600;">i10-index</td>
-            <td style="text-align: center; padding: 0.75rem 0;">0</td>
-            <td style="text-align: center; padding: 0.75rem 0;">0</td>
-          </tr>
-        </tbody>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.65rem 0; color: #475569; font-weight: 500;">Citations</td>
+          <td style="padding: 0.65rem 0; text-align: right; font-weight: 700; color: #1e40af;">33</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.65rem 0; color: #475569; font-weight: 500;">h-index</td>
+          <td style="padding: 0.65rem 0; text-align: right; font-weight: 700;">4</td>
+        </tr>
       </table>
     </div>
 
-    <!-- Publication Breakdown (smaller & clean) -->
-    <div style="background: #f8fafc; padding: 1.25rem; border-radius: 14px; border: 1px solid #e2e8f0; font-size: 0.92rem;">
-      <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.9rem; font-size: 0.82rem; 
-                  text-transform: uppercase; letter-spacing: 0.05em;">
+    <!-- Publications Breakdown -->
+    <div>
+      <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.9rem; text-transform: uppercase; 
+                  font-size: 0.82rem; letter-spacing: 0.06em;">
         Publications
       </div>
-      <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.6rem 0; border-bottom: 1px solid #f1f5f9;">
-        <span style="color: #475569;">Journal Papers</span>
-        <span style="font-weight: 600; color: #1e40af;">8</span>
-      </div>
-      <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.6rem 0;">
-        <span style="color: #475569;">Conference Papers</span>
-        <span style="font-weight: 600; color: #1e40af;">9</span>
-      </div>
-      <div style="margin-top: 1rem; font-size: 0.85rem; color: #64748b; text-align: center;">
-        Total: <strong style="color: #334155;">17</strong>
-      </div>
+      <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.65rem 0; color: #475569; font-weight: 500;">Journal Papers</td>
+          <td style="padding: 0.65rem 0; text-align: right; font-weight: 700; color: #1e40af;">8</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.65rem 0; color: #475569; font-weight: 500;">Conference Papers</td>
+          <td style="padding: 0.65rem 0; text-align: right; font-weight: 700; color: #1e40af;">9</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.9rem 0 0.4rem 0; color: #475569; font-weight: 500;">Total</td>
+          <td style="padding: 0.9rem 0 0.4rem 0; text-align: right; font-weight: 700; color: #334155;">17</td>
+        </tr>
+      </table>
     </div>
 
   </div>
