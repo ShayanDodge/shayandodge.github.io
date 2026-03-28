@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "Shayan Dodge"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate \n Electrical Engineering \n University of Pisa"
+  bio              : "PhD candidate<br>Electrical Engineering<br>University of Pisa"
   location         : "Pisa, Italy"
   employer         : "University of Pisa"
   uri              : "https://destec.unipi.it/people/dodge-shayan"
