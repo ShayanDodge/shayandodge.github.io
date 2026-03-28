@@ -72,38 +72,6 @@ redirect_from:
 
 ---
 
-## Current Position
-
-**PhD Candidate in Electrical Engineering**  
-University of Pisa, Italy (Sep 2024 – Present)
-
-**Research Fellow**  
-University of Pisa, Italy (Jan 2024 – Jan 2026)  
-- Working on PRIN 2022 projects (FELINES, STEM-DEEP)  
-- Developed ML models for lightning detection and overvoltage prediction  
-- Designed deep learning approaches for inverse electromagnetic field reconstruction in TMS  
-
----
-
-## Education
-
-- **PhD in Electrical Engineering**, University of Pisa (2024–Present)  
-- **MSc in Plasma Physics**, Shahid Beheshti University (WES equivalent GPA: 3.87/4.00)  
-- **BSc in Physics**, Kharazmi University (WES equivalent GPA: 3.98/4.00)  
-
----
-
-## Publications & Research
-
-| Metric       | Details                          |
-|--------------|----------------------------------|
-| Publications | 17+ (13 journals, 4 conferences) |
-| h-index      | 4 (Google Scholar, 2026)         |
-
-[Publications →](/publications/)
-
----
-
 ## 🚀 Key Contributions
 
 **Physics-Informed Neural Networks for Electromagnetics**  
@@ -127,8 +95,6 @@ My work integrates the full simulation pipeline, from numerical modeling and sol
 
 ## 💡 Recent News
 
-- **[1/2026]** Multiple journal and conference papers submitted and accepted on PINNs, neural operators, and AI-driven electromagnetics.  
-- **[12/2025]** Published several works on deep learning for lightning modeling and electromagnetic analysis in *IEEE Access* and *Electric Power Systems Research*.  
-- **[12/2024]** Awarded a research grant at the University of Pisa for work on machine learning applications in electromagnetics.  
+- **[4/2026]** 
 
 ---
