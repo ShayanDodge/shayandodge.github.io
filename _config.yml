@@ -21,32 +21,37 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+# author:
+#   # Biographic information
+#   avatar           : "profile.png"
+#   name             : "Shayan Dodge"
+#   pronouns         : # example: "she/her"  
+#   # bio              : "Short biography for the left-hand sidebar"
+#   location         : "Pisa, Italy"
+#   employer         : "University of Pisa"
+#   uri              : "https://destec.unipi.it/people/dodge-shayan"
+#   email            : "dodgeshayan@gmail.com" 
+
+
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Shayan Dodge"
-  pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
-  bio: >
-  <div style="flex:0.5; background:#f9fafb; padding:0.5rem 0.6rem; border-radius:8px;
-              border:1px solid #e5e7eb; font-size:0.72rem; line-height:1.25;">
-    <div style="font-weight:700; font-size:0.62rem; letter-spacing:0.08em;
-                margin-bottom:0.35rem; color:#111827;">
-      QUICK FACTS
-    </div>
-    <div style="display:grid; grid-template-columns:1fr auto; gap:0.15rem 0.5rem;">
-      <span style="color:#6b7280;">Position</span><span style="text-align:right;">PhD Cand.</span>
-      <span style="color:#6b7280;">Field</span><span style="text-align:right;">Elec. Eng.</span>
-      <span style="color:#6b7280;">Focus</span><span style="text-align:right;">AI+EM</span>
-      <span style="color:#6b7280;">Pubs</span><span style="text-align:right; font-weight:700;">17+</span>
-      <span style="color:#6b7280;">h-index</span><span style="text-align:right;">4</span>
-      <span style="color:#6b7280;">Loc</span><span style="text-align:right;">Pisa</span>
-    </div>
-  </div>
-  location         : "Pisa, Italy"
-  employer         : "University of Pisa"
-  uri              : "https://destec.unipi.it/people/dodge-shayan"
-  email            : "dodgeshayan@gmail.com" 
+  name: "Shayan Dodge"
+  bio: "PhD candidate in Electrical Engineering at the University of Pisa."
+  location: "Pisa, Italy"
+  employer: "University of Pisa"
+
+  quick_facts:
+    - label: "Position"
+      value: "PhD Candidate"
+    - label: "Field"
+      value: "Electrical Engineering"
+    - label: "Focus"
+      value: "AI + Electromagnetics"
+    - label: "Publications"
+      value: "17+"
+    - label: "h-index"
+      value: "4"
+    - label: "Location"
+      value: "Pisa"
 
   # Academic websites
   academia         : "https://pisa.academia.edu/ShayanDodge"
