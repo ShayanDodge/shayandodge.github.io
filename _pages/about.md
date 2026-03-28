@@ -9,28 +9,28 @@ redirect_from:
 
 ## About Me
 
-<table>
-<tr>
-<td width="60%">
+<div style="display: flex; gap: 2rem; align-items: flex-start;">
+
+<div style="flex: 2;">
 
 Shayan Dodge works at the intersection of computational electromagnetics and artificial intelligence. His research integrates high-fidelity numerical methods, including the finite element method (FEM), finite-difference time-domain (FDTD), and boundary element method (BEM), with physics-informed neural networks to develop scalable, physics-consistent surrogate models for electromagnetic systems. His work aims to advance next-generation machine learning frameworks that enable real-time electromagnetic analysis and design optimization in complex multiphysics environments.
 
-</td>
+</div>
 
-<td width="40%">
+<div style="flex: 1; background:#f8f9fa; padding:1rem; border-radius:10px; font-size:0.95em;">
 
-| **Quick Facts** | |
-|----------------|--|
-| Position | PhD Candidate |
-| Field | Electrical Engineering |
-| Focus | AI + Electromagnetics |
-| Publications | 17+ |
-| h-index | 4 |
-| Location | Pisa, Italy |
+<strong>Quick Facts</strong><br><br>
 
-</td>
-</tr>
-</table>
+<b>Position:</b> PhD Candidate<br>
+<b>Field:</b> Electrical Engineering<br>
+<b>Focus:</b> AI + Electromagnetics<br>
+<b>Publications:</b> 17+<br>
+<b>h-index:</b> 4<br>
+<b>Location:</b> Pisa, Italy
+
+</div>
+
+</div>
 
 
 Shayan Dodge works at the intersection of computational electromagnetics and artificial intelligence. His research integrates high-fidelity numerical methods, including the finite element method (FEM), finite-difference time-domain (FDTD), and boundary element method (BEM), with physics-informed neural networks to develop scalable, physics-consistent surrogate models for electromagnetic systems. His work aims to advance next-generation machine learning frameworks that enable real-time electromagnetic analysis and design optimization in complex multiphysics environments.
