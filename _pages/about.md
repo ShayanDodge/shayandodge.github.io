@@ -51,7 +51,7 @@ redirect_from:
     <span style="color:#6b7280;">Pubs</span>
     <span style="text-align:right; font-weight:700;">17+</span>
 
-    <span style="color:#6b7280;">h</span>
+    <span style="color:#6b7280;">h-index</span>
     <span style="text-align:right;">4</span>
 
     <span style="color:#6b7280;">Loc</span>
