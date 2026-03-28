@@ -7,35 +7,35 @@ redirect_from:
   - /about.html
 
 ---
-<div style="display: flex; gap: 1.1rem; align-items: flex-start; margin: 0.8rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #1f2937; max-width: 980px;">
+<div style="display: flex; gap: 1rem; align-items: flex-start; margin: 0.6rem 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #1f2937; max-width: 960px;">
 
   <!-- About Me -->
-  <div style="flex: 2; line-height: 1.55;">
-    <h2 style="margin: 0 0 0.65rem 0; color: #111827; font-size: 1.45rem; font-weight: 700; 
+  <div style="flex: 2; line-height: 1.5;">
+    <h2 style="margin: 0 0 0.55rem 0; color: #111827; font-size: 1.4rem; font-weight: 700; 
                position: relative; display: inline-block;">
       About Me
-      <span style="position: absolute; bottom: -3px; left: 0; width: 42px; height: 3px; background: #2563eb;"></span>
+      <span style="position: absolute; bottom: -3px; left: 0; width: 40px; height: 2.5px; background: #2563eb;"></span>
     </h2>
     
-    <p style="margin-bottom: 0.6rem; font-size: 0.94rem;">
+    <p style="margin-bottom: 0.55rem; font-size: 0.91rem;">
       Shayan Dodge works at the intersection of <strong>computational electromagnetics</strong> and <strong>AI</strong>. 
       His research integrates FEM, FDTD, BEM with PINNs.
     </p>
     
-    <p style="margin-bottom: 0; font-size: 0.94rem;">
+    <p style="margin-bottom: 0; font-size: 0.91rem;">
       He develops scalable surrogate models for real-time EM analysis in multi-physics systems.
     </p>
   </div>
 
   <!-- Super Small Quick Facts -->
-  <div style="flex: 0.58; background: #f9fafb; padding: 0.7rem 0.95rem; border-radius: 9px; 
-              border: 1px solid #e5e7eb; box-shadow: 0 2px 5px -2px rgb(0 0 0 / 0.03); height: fit-content;">
+  <div style="flex: 0.52; background: #f9fafb; padding: 0.6rem 0.85rem; border-radius: 8px; 
+              border: 1px solid #e5e7eb; box-shadow: 0 2px 4px -2px rgb(0 0 0 / 0.03); height: fit-content;">
 
-    <div style="font-weight: 700; color: #111827; margin-bottom: 0.5rem; font-size: 0.7rem; letter-spacing: 0.8px;">
+    <div style="font-weight: 700; color: #111827; margin-bottom: 0.45rem; font-size: 0.68rem; letter-spacing: 0.9px;">
       QUICK FACTS
     </div>
 
-    <div style="display: grid; grid-template-columns: 1fr auto; gap: 0.2rem 0.9rem; font-size: 0.79rem; line-height: 1.4;">
+    <div style="display: grid; grid-template-columns: 1fr auto; gap: 0.18rem 0.85rem; font-size: 0.76rem; line-height: 1.35;">
       
       <div style="color: #4b5563;">Position</div>
       <div style="font-weight: 600; text-align: right;">PhD Candidate</div>
