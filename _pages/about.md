@@ -29,49 +29,37 @@ redirect_from:
     </p>
   </div>
 
-  <!-- Merged Research Metrics Sidebar -->
-  <div style="flex: 0.95; background: linear-gradient(145deg, #f8fafc, #f1f5f9); padding: 1.75rem; border-radius: 16px; 
-              border: 1px solid #e2e8f0; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05); display: flex; flex-direction: column; gap: 1.75rem;">
+  <!-- Compact Merged Sidebar -->
+  <div style="flex: 0.85; background: linear-gradient(145deg, #f8fafc, #f1f5f9); padding: 1.5rem; border-radius: 16px; 
+              border: 1px solid #e2e8f0; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05);">
 
-    <!-- Google Scholar Metrics -->
-    <div>
-      <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.9rem; text-transform: uppercase; 
-                  font-size: 0.82rem; letter-spacing: 0.06em;">
-        Research Impact
-      </div>
-      <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
-        <tr style="border-bottom: 1px solid #e2e8f0;">
-          <td style="padding: 0.65rem 0; color: #475569; font-weight: 500;">Citations</td>
-          <td style="padding: 0.65rem 0; text-align: right; font-weight: 700; color: #1e40af;">33</td>
-        </tr>
-        <tr>
-          <td style="padding: 0.65rem 0; color: #475569; font-weight: 500;">h-index</td>
-          <td style="padding: 0.65rem 0; text-align: right; font-weight: 700;">4</td>
-        </tr>
-      </table>
+    <div style="font-weight: 700; color: #1e293b; margin-bottom: 1.1rem; text-transform: uppercase; 
+                font-size: 0.8rem; letter-spacing: 0.07em;">
+      Research Profile
     </div>
 
-    <!-- Publications Breakdown -->
-    <div>
-      <div style="font-weight: 700; color: #1e293b; margin-bottom: 0.9rem; text-transform: uppercase; 
-                  font-size: 0.82rem; letter-spacing: 0.06em;">
-        Publications
-      </div>
-      <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem;">
-        <tr style="border-bottom: 1px solid #e2e8f0;">
-          <td style="padding: 0.65rem 0; color: #475569; font-weight: 500;">Journal Papers</td>
-          <td style="padding: 0.65rem 0; text-align: right; font-weight: 700; color: #1e40af;">8</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #e2e8f0;">
-          <td style="padding: 0.65rem 0; color: #475569; font-weight: 500;">Conference Papers</td>
-          <td style="padding: 0.65rem 0; text-align: right; font-weight: 700; color: #1e40af;">9</td>
-        </tr>
-        <tr>
-          <td style="padding: 0.9rem 0 0.4rem 0; color: #475569; font-weight: 500;">Total</td>
-          <td style="padding: 0.9rem 0 0.4rem 0; text-align: right; font-weight: 700; color: #334155;">17</td>
-        </tr>
-      </table>
-    </div>
+    <table style="width: 100%; border-collapse: collapse; font-size: 0.93rem; line-height: 1.8;">
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 0.55rem 0; color: #475569;">Citations</td>
+        <td style="padding: 0.55rem 0; text-align: right; font-weight: 700; color: #1e40af;">33</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 0.55rem 0; color: #475569;">h-index</td>
+        <td style="padding: 0.55rem 0; text-align: right; font-weight: 700;">4</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 0.55rem 0; color: #475569;">Journal Papers</td>
+        <td style="padding: 0.55rem 0; text-align: right; font-weight: 700; color: #1e40af;">8</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 0.55rem 0; color: #475569;">Conference Papers</td>
+        <td style="padding: 0.55rem 0; text-align: right; font-weight: 700; color: #1e40af;">9</td>
+      </tr>
+      <tr>
+        <td style="padding: 0.75rem 0 0.4rem 0; color: #475569; font-weight: 500;">Total Publications</td>
+        <td style="padding: 0.75rem 0 0.4rem 0; text-align: right; font-weight: 700; color: #334155;">17</td>
+      </tr>
+    </table>
 
   </div>
 
