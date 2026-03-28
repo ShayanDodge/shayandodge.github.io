@@ -62,13 +62,6 @@ redirect_from:
 </div>
 
 </div>
----
-
-## Research Interests
-
-- **Computational Electromagnetics**: Multiphysics modeling, FEM/FDTD/BEM methods, lightning and power-system EM phenomena  
-- **AI for Electromagnetics**: Physics-informed neural networks (PINNs), neural operators (DeepONet), inverse modeling  
-- **Bioelectromagnetics**: Transcranial magnetic stimulation (TMS), SAR estimation, microwave hyperthermia, medical imaging  
 
 ---
 
@@ -77,19 +70,6 @@ redirect_from:
 **Physics-Informed Neural Networks for Electromagnetics**  
 Developed advanced PINN frameworks (including STAR-PINN and variational PINNs) for solving time-domain and nonlinear electromagnetic problems with improved accuracy and stability.
 
-**Hybrid Numerical–AI Methods**  
-Proposed hybrid approaches combining classical numerical techniques (FEM/BEM) with physics-informed neural networks, enabling efficient and scalable solutions for complex electromagnetic systems.
-
-**AI-Based Lightning and Power-System Modeling**  
-Designed deep learning models for lightning location, precursor detection, and induced overvoltage prediction in power systems, improving real-time analysis capabilities.
-
-**Inverse Electromagnetic Modeling**  
-Developed machine learning methods for inverse electromagnetic field reconstruction, with applications in personalized transcranial magnetic stimulation (TMS).
-
-**Bioelectromagnetics & Multiphysics Applications**  
-Applied deep learning and PINN-based models to biomedical problems, including SAR estimation, electromagnetic exposure analysis, and medical imaging.
-
-My work integrates the full simulation pipeline, from numerical modeling and solver development to machine learning integration, high-performance computing, and data-driven optimization.
 
 ---
 
