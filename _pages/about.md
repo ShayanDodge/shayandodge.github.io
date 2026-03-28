@@ -75,8 +75,8 @@ My work integrates the full simulation pipeline, from numerical modeling and sol
 
 ## 💡 Recent News
 
-- **[2026]** Multiple journal and conference papers submitted and accepted on PINNs, neural operators, and AI-driven electromagnetics.  
-- **[2025]** Published several works on deep learning for lightning modeling and electromagnetic analysis in *IEEE Access* and *Electric Power Systems Research*.  
-- **[2024]** Awarded a research grant at the University of Pisa for work on machine learning applications in electromagnetics.  
+- **[1/2026]** Multiple journal and conference papers submitted and accepted on PINNs, neural operators, and AI-driven electromagnetics.  
+- **[12/2025]** Published several works on deep learning for lightning modeling and electromagnetic analysis in *IEEE Access* and *Electric Power Systems Research*.  
+- **[12/2024]** Awarded a research grant at the University of Pisa for work on machine learning applications in electromagnetics.  
 
 ---
