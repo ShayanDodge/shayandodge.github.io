@@ -18,9 +18,11 @@ His work aims to advance next-generation machine learning frameworks that enable
 
 ## Key Contributions
 
-**Physics-Informed Neural Networks for Electromagnetics**  
-Developed advanced PINN frameworks (including STAR-PINN and variational PINNs) for solving time-domain and nonlinear electromagnetic problems with improved accuracy and stability.
+**Physics-Informed Neural Networks for Electromagnetic Problems**  
 
+**Forecasting Lightning Effects in Electrical Systems (FELINES)**  
+
+**AI-Based Optimization of Transcranial Magnetic Stimulation (TMS)**  
 
 ---
 
