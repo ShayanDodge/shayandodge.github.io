@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 ## About Me
-Shayan Dodge works at the intersection of computational electromagnetics and AI. His research integrates FEM, FDTD, BEM with PINNs. He develops scalable surrogate models for real-time EM analysis in multi-physics systems.
+
+Shayan Dodge works at the intersection of computational electromagnetics and artificial intelligence. His research integrates high-fidelity numerical methods, including the finite element method (FEM), finite-difference time-domain (FDTD), and boundary element method (BEM), with physics-informed neural networks to develop scalable, physics-consistent surrogate models for electromagnetic systems. 
+
+His work aims to advance next-generation machine learning frameworks that enable real-time electromagnetic analysis and design optimization in complex multiphysics environments.
 
 ---
 
