@@ -21,7 +21,7 @@ His work aims to advance next-generation machine learning frameworks that enable
 **Physics-Informed Neural Networks for Electromagnetic Problems**  
 
 **Forecasting Lightning Effects in Electrical Systems (<a href="https://felines.prin.unige.it/">FELINES</a>)**  
-  FELINES is a research project aiming to design a preventive protection concept for electrical infrastructures by sensing electromagnetic fields generated during the early phases of lightning inception—in particular the Preliminary Breakdown Pulses (PBP)—and using them to predict whether the upcoming Return Stroke (RS) could be dangerous, enabling timely disconnection of vulnerable equipment. The work combines PBP/RS modeling, electromagnetic field & coupling simulations, and machine learning for early classification (“dangerous RS” vs “not dangerous”). More information is available on the project website and GitHub repository.
+  FELINES is a research project aiming to design a preventive protection concept for electrical infrastructures by sensing electromagnetic fields generated during the early phases of lightning inception—in particular the Preliminary Breakdown Pulses (PBP)—and using them to predict whether the upcoming Return Stroke (RS) could be dangerous, enabling timely disconnection of vulnerable equipment. The work combines PBP/RS modeling, electromagnetic field & coupling simulations, and machine learning for early classification (“dangerous RS” vs “not dangerous”). More information is available on the <a href="https://felines.prin.unige.it/">project website</a> and <a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast">GitHub</a> repository.
 
 **AI-Based Optimization of Transcranial Magnetic Stimulation (TMS)**  
 
