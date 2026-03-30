@@ -21,8 +21,8 @@ His work aims to advance next-generation machine learning frameworks that enable
 **Physics-Informed Neural Networks for Electromagnetic Problems**  
   Classical electromagnetic (EM) solvers—such as FEM, FDTD, and BEM—can become computationally expensive when applied to complex geometries or inverse problems. Physics-Informed Neural Networks (PINNs) provide a promising alternative by learning solutions directly from the governing equations, thereby reducing reliance on mesh generation and large-scale simulations. Within this framework, my research contributions include:
 
-  - Adaptive residual PINN (STAR-PINN) for time-domain magnetic diffusion — [Paper] , [GitHub]
-  - Hybrid Boundary Element–PINN Method for Electromagnetic Analysis — [Paper] , [GitHub]
+  - Adaptive residual PINN (STAR-PINN) for time-domain magnetic diffusion [Paper][GitHub]
+  - Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [Paper][GitHub]
   
 
 **Forecasting Lightning Effects in Electrical Systems (<a href="https://felines.prin.unige.it/">FELINES</a>)**  
