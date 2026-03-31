@@ -9,8 +9,11 @@
 
 main:
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projects"
+    url: /teaching/  
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   - title: "Publications"
     url: /publications/
@@ -19,8 +22,7 @@ main:
     # url: /cv/
     url: /files/Shayan_CV_27032026.pdf
 
-  - title: "Projects"
-    url: /teaching/   
+ 
 
   # - title: "Talks"
   #   url: /talks/    
