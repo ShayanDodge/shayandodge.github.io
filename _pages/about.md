@@ -23,8 +23,6 @@ His work aims to advance next-generation machine learning frameworks that enable
 
   - Adaptive residual PINN (STAR-PINN) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][<a href="">GitHub</a>]
   - Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [<a href="https://ieeexplore.ieee.org/abstract/document/10755077">Paper</a>][<a href="https://github.com/ShayanDodge/hybrid-bem-pinn-electromagnetics">GitHub</a>]
-  
-
 
 **Forecasting Lightning Effects in Electrical Systems (<a href="https://felines.prin.unige.it/">FELINES</a>)**  
   FELINES is a research project aiming to design a preventive protection concept for electrical infrastructures by sensing electromagnetic fields generated during the early phases of lightning inception—in particular the Preliminary Breakdown Pulses (PBP)—and using them to predict whether the upcoming Return Stroke (RS) could be dangerous, enabling timely disconnection of vulnerable equipment. The work combines PBP/RS modeling, electromagnetic field & coupling simulations, and machine learning for early classification (“dangerous RS” vs “not dangerous”). More information is available on the <a href="https://felines.prin.unige.it/">project website</a> and <a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast">GitHub</a> repository.
