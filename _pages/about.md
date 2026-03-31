@@ -28,6 +28,7 @@ His work aims to advance next-generation machine learning frameworks that enable
   FELINES is a research project developing a preventive protection system for electrical infrastructures by sensing early lightning electromagnetic signals—especially Preliminary Breakdown Pulses (PBP)—to predict whether an upcoming Return Stroke (RS) will be dangerous, enabling timely disconnection of vulnerable equipment. Our contributions are documented in the following publications:
 
   - Lightning Geolocation and Peak Current Estimation [<a href="https://www.sciencedirect.com/science/article/pii/S0378779625000306">Paper</a>][<a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast/tree/main/Phase%201%20%E2%80%94%20Lightning%20Geolocation%20and%20Peak%20Current%20Estimation">GitHub</a>]
+  
   More details are available on the <a href="https://felines.prin.unige.it/">project website</a> and <a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast">GitHub</a>.
 
 
