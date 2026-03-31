@@ -21,9 +21,10 @@ His work aims to advance next-generation machine learning frameworks that enable
 **Physics-Informed Neural Networks for Electromagnetic Problems**  
   Classical electromagnetic (EM) solvers—such as FEM, FDTD, and BEM—can become computationally expensive when applied to complex geometries or inverse problems. Physics-Informed Neural Networks (PINNs) provide a promising alternative by learning solutions directly from the governing equations, thereby reducing reliance on mesh generation and large-scale simulations. Within this framework, my research contributions include:
 
-  - Adaptive residual PINN (STAR-PINN) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][GitHub]
-  - Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [<a href="https://ieeexplore.ieee.org/abstract/document/10755077">Paper</a>][GitHub]
+  - Adaptive residual PINN (STAR-PINN) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][<a href="">GitHub</a>]
+  - Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [<a href="https://ieeexplore.ieee.org/abstract/document/10755077">Paper</a>][<a href="https://github.com/ShayanDodge/hybrid-bem-pinn-electromagnetics">GitHub</a>]
   
+
 
 **Forecasting Lightning Effects in Electrical Systems (<a href="https://felines.prin.unige.it/">FELINES</a>)**  
   FELINES is a research project aiming to design a preventive protection concept for electrical infrastructures by sensing electromagnetic fields generated during the early phases of lightning inception—in particular the Preliminary Breakdown Pulses (PBP)—and using them to predict whether the upcoming Return Stroke (RS) could be dangerous, enabling timely disconnection of vulnerable equipment. The work combines PBP/RS modeling, electromagnetic field & coupling simulations, and machine learning for early classification (“dangerous RS” vs “not dangerous”). More information is available on the <a href="https://felines.prin.unige.it/">project website</a> and <a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast">GitHub</a> repository.
