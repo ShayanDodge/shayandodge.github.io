@@ -42,6 +42,6 @@ His work aims to advance next-generation machine learning frameworks that enable
 
 ## Recent News
 
-- **[4/2026]** 
+- **[14/4/2026]** New publication: “PINN-based resolution of inverse non-linear magnetostatic problems”, COMPEL, DOI: [<a href="https://doi.org/10.1108/COMPEL-10-2025-0508">]
 
 ---
