@@ -21,7 +21,7 @@ His work aims to advance next-generation machine learning frameworks that enable
 **Physics-Informed Neural Networks (PINNs) for Electromagnetic Problems**  
   PINNs offer a promising alternative to classical electromagnetic (EM) solvers like FEM, FDTD, and BEM by learning solutions directly from governing equations, reducing the need for meshing and large-scale simulations. My research contributions include:
 
-  - Adaptive residual PINN (STAR-PINN) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][<a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">GitHub</a>]
+  - A STacked Adaptive Residual PINN (STAR-PINN) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][<a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">GitHub</a>]
   - Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [<a href="https://ieeexplore.ieee.org/abstract/document/10755077">Paper</a>][<a href="https://github.com/ShayanDodge/hybrid-bem-pinn-electromagnetics">GitHub</a>]
 
 **Forecasting Lightning Effects in Electrical Systems (<a href="https://felines.prin.unige.it/">FELINES</a>)**  
