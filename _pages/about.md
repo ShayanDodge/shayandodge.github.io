@@ -42,7 +42,7 @@ His work aims to advance next-generation machine learning frameworks that enable
 
 ## Recent News
 
-- **[05/05/2026]** Joined the IEEE Journal on Multiscale and Multiphysics Computational Techniques as a Student Editorial Assistant. Excited to contribute to the journal and further develop my research and editorial experience. [<a href="https://ieee-jmmct.org/">IEEE JMMCE</a>]
+- **[05/05/2026]** Joined the <i>IEEE Journal on Multiscale and Multiphysics Computational Techniques</i> as a Student Editorial Assistant. Excited to contribute to the journal and further develop my research and editorial experience. [<a href="https://ieee-jmmct.org/">IEEE JMMCE</a>]
 
 - **[14/04/2026]** Our paper, <a href="https://doi.org/10.1108/COMPEL-10-2025-0508">“PINN-based resolution of inverse non-linear magnetostatic problems,”</a> has been published in COMPEL.
 
