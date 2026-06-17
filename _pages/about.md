@@ -61,6 +61,9 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
 ## Recent News
 
+- **[June 2026]** Participated in ACES 2026 and CEFC 2026 in Thessaloniki, Greece, contributing to five works spanning Scientific Machine Learning, Physics-Informed Neural Networks, Computational Electromagnetics and Biomedical Engineering.
+
+
 - **[05/05/2026]** Joined the <i>IEEE Journal on Multiscale and Multiphysics Computational Techniques (JMMCT)</i> as a <b>Student Editorial Assistant</b>. Excited to contribute to the journal and further develop my research and editorial experience. [<a href="https://ieee-jmmct.org/">IEEE JMMCE</a>]
 
 - **[14/04/2026]** Our paper, <a href="https://doi.org/10.1108/COMPEL-10-2025-0508">“PINN-based resolution of inverse non-linear magnetostatic problems,”</a> has been published in COMPEL.
