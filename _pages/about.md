@@ -39,7 +39,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
 
 **AI-Based Optimization of Transcranial Magnetic Stimulation (TMS)**  
-  This work develops a data-driven framework to optimize transcranial magnetic stimulation (TMS) coil position and intensity using a deep learning model (variational autoencoder, VAE, combined with a convolutional neural network, CNN) trained on MRI-based realistic head models and FEM-based field distributions generated using a model order reduction (MOR) framework.
+  This work develops a generative AI framework for transcranial magnetic stimulation (TMS) planning. A variational autoencoder (VAE) generates desired electric field distributions from clinician-defined targets, while a convolutional neural network (CNN) predicts the corresponding coil position and stimulation parameters using MRI-based head models and FEM simulations accelerated through model order reduction (MOR).
 
   More details are available on the <a href="https://cad.unipv.it/PRIN/project.html">project website</a>.
 
