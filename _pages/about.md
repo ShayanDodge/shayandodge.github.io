@@ -24,7 +24,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 | Category | Focus |
 |-----------|-----------|
 | Scientific Machine Learning | PINNs, Variational PINNs, Neural Operators |
-| Machine Learning | Deep Learning, CNNs, Autoencoders, Generative AI, Residual Networks |
+| Deep Learning | RNNs, CNNs, Autoencoders, Generative AI, Residual Networks |
 | Computational Methods | FEM, FDTD, BEM |
 | Applications | Computational Electromagnetics, Power Systems, Bioelectromagnetics |
 | Research Topics | Inverse Problems, Optimization, Surrogate Modeling, Scientific Computing |
