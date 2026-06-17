@@ -10,9 +10,11 @@ redirect_from:
 
 ## About Me
 
-Shayan Dodge works at the intersection of computational electromagnetics and artificial intelligence. His research integrates high-fidelity numerical methods, including the finite element method (FEM), finite-difference time-domain (FDTD), and boundary element method (BEM), with physics-informed neural networks to develop scalable, physics-consistent surrogate models for electromagnetic systems. 
+I am a PhD researcher in Electrical Engineering at the University of Pisa, Italy, working at the intersection of Scientific Machine Learning, Computational Electromagnetics, and AI for Physics.
 
-His work aims to advance next-generation machine learning frameworks that enable real-time electromagnetic analysis and design optimization in complex multiphysics environments.
+My research focuses on applying AI to electromagnetic simulation, power and energy systems, bioelectromagnetics, inverse problems, and scientific computing.
+
+I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural operators, generative AI models, and deep learning frameworks for solving PDEs, surrogate modeling, signal analysis, optimization, and simulation acceleration.
 
 ---
 
