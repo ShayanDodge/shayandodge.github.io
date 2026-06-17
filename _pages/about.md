@@ -30,7 +30,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
   - Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [<a href="https://ieeexplore.ieee.org/abstract/document/10755077">Paper</a>][<a href="https://github.com/ShayanDodge/hybrid-bem-pinn-electromagnetics">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7447168786849484801/">LinkedIn</a>]
 
 **Forecasting Lightning Effects in Electrical Systems (<a href="https://felines.prin.unige.it/">FELINES</a>)**  
-  FELINES is a research project developing a preventive protection system for electrical infrastructures by sensing early lightning electromagnetic signals—especially Preliminary Breakdown Pulses (PBP)—to predict whether an upcoming Return Stroke (RS) will be dangerous, enabling timely disconnection of vulnerable equipment. Our contributions are documented in the following publications:
+  FELINES develops signal processing and deep learning methods for analyzing FDTD-simulated lightning electromagnetic signals and assessing lightning-related risks in power systems and transmission lines. Our contributions include:
 
   - Lightning Geolocation and Peak Current Estimation [<a href="https://www.sciencedirect.com/science/article/pii/S0378779625000306">Paper</a>][<a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast/tree/main/Phase%201%20%E2%80%94%20Lightning%20Geolocation%20and%20Peak%20Current%20Estimation">GitHub</a>]
   
