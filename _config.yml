@@ -13,7 +13,7 @@ title                    : "Shayan Dodge - S.DODGE" # Site title
 title_separator          : "-"
 name                     : &name "Shayan Dodge" # Default author and site name
 description              : &description "Academic portfolio of Shayan Dodge, PhD candidate in Electrical Engineering at the University of Pisa, working on Scientific Machine Learning and computational methods."
-url                      : "https://shayandodge.github.io" # Base hostname and protocol
+url                      : "https://shayandodge.com" # Base hostname and protocol
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShayanDodge/ShayanDodge.github.io"
