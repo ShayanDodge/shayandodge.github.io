@@ -41,22 +41,25 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   <!-- ![INIVPINN](/images/INIVPINN.gif) -->
   <div align="center">
-  <img src="/images/INIVPINN.gif" alt="INIVPINN" width="500">
+  <img src="/images/INIVPINN.gif" alt="INIVPINN" width="700">
   </div>
+  [Read more ...]
 
   - A **S**Tacked **A**daptive **R**esidual **PINN** (**STAR-PINN**) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][<a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7460580932610252800/">LinkedIn</a>]
 
   <!-- ![STAR-PINN Architecture](/images/STARPINN_V2.gif) -->
   <div align="center">
-  <img src="/images/STARPINN_V2.gif" alt="STAR-PINN" width="500">
+  <img src="/images/STARPINN_V2.gif" alt="STAR-PINN" width="700">
   </div>
+  [Read more ...]
 
   - **BEM-PINN**: Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [<a href="https://ieeexplore.ieee.org/abstract/document/10755077">Paper</a>][<a href="https://github.com/ShayanDodge/hybrid-bem-pinn-electromagnetics">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7447168786849484801/">LinkedIn</a>]
 
   <!-- ![BEMPINN](/images/BEMPINN.gif) -->
   <div align="center">
-  <img src="/images/BEMPINN.gif" alt="BEMPINN" width="500">
+  <img src="/images/BEMPINN.gif" alt="BEMPINN" width="700">
   </div>
+  [Read more ...]
 
 
 
