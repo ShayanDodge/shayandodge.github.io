@@ -39,7 +39,10 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   - **INI-VPINN**: A variational PINN framework with implicit treatment of Neumann and interface conditions for multi-material domains with complex geometries [<a href="https://arxiv.org/abs/2606.18032">Paper</a>][<a href="https://github.com/ShayanDodge/INI-VPINN">GitHub</a>]
 
-  ![INIVPINN](/images/INIVPINN.gif)
+  <!-- ![INIVPINN](/images/INIVPINN.gif) -->
+  <div align="center">
+  <img src="/images/INIVPINN.gif" alt="INIVPINN" width="250">
+  </div>
 
   - A **S**Tacked **A**daptive **R**esidual **PINN** (**STAR-PINN**) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][<a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7460580932610252800/">LinkedIn</a>]
 
