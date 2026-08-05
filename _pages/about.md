@@ -41,7 +41,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   <!-- ![INIVPINN](/images/INIVPINN.gif) -->
   <div align="center">
-  <img src="/images/INIVPINN.gif" alt="INIVPINN" width="250">
+  <img src="/images/INIVPINN.gif" alt="INIVPINN" width="100">
   </div>
 
   - A **S**Tacked **A**daptive **R**esidual **PINN** (**STAR-PINN**) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][<a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7460580932610252800/">LinkedIn</a>]
