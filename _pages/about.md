@@ -18,7 +18,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
 ---
 
-## Research at a Glance
+<!-- ## Research at a Glance
 
 
 | Category | Focus |
@@ -28,9 +28,9 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 | Computational Methods | FEM, FDTD, BEM |
 | Applications | Computational Electromagnetics, Power Systems, Bioelectromagnetics |
 | Research Topics | Inverse Problems, Optimization, Surrogate Modeling, Scientific Computing |
-| Software | PyTorch, TensorFlow, JAX, MATLAB, CUDA |
+| Software | PyTorch, TensorFlow, JAX, MATLAB, CUDA | -->
 
----
+<!-- --- -->
 
 ## Key Contributions
 
