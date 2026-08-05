@@ -59,7 +59,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
   <div align="center">
   <img src="/images/BEMPINN.gif" alt="BEMPINN" width="600">
   </div>
-  [Read more ...]
+  [<a href="https://shayandodge.com/posts/2026/04/Hybrid-BEM-PINN-Electromagnetics-v1-0-0/">Read more ...</a>]
 
 
 
