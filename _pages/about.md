@@ -41,7 +41,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   <!-- ![INIVPINN](/images/INIVPINN.gif) -->
   <div align="center">
-  <img src="/images/INIVPINN.gif" alt="INIVPINN" width="700">
+  <img src="/images/INIVPINN.gif" alt="INIVPINN" width="600">
   </div>
   [Read more ...]
 
@@ -49,7 +49,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   <!-- ![STAR-PINN Architecture](/images/STARPINN_V2.gif) -->
   <div align="center">
-  <img src="/images/STARPINN_V2.gif" alt="STAR-PINN" width="700">
+  <img src="/images/STARPINN_V2.gif" alt="STAR-PINN" width="600">
   </div>
   [<a href="https://shayandodge.com/posts/2026/06/star-pinn-v1-0-0/">Read more ...</a>]
 
@@ -57,7 +57,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   <!-- ![BEMPINN](/images/BEMPINN.gif) -->
   <div align="center">
-  <img src="/images/BEMPINN.gif" alt="BEMPINN" width="700">
+  <img src="/images/BEMPINN.gif" alt="BEMPINN" width="600">
   </div>
   [Read more ...]
 
