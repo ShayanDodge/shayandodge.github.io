@@ -51,7 +51,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
   <div align="center">
   <img src="/images/STARPINN_V2.gif" alt="STAR-PINN" width="700">
   </div>
-  [Read more ...]
+  [<a href="https://shayandodge.com/posts/2026/06/star-pinn-v1-0-0/">Read more ...</a>]
 
   - **BEM-PINN**: Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [<a href="https://ieeexplore.ieee.org/abstract/document/10755077">Paper</a>][<a href="https://github.com/ShayanDodge/hybrid-bem-pinn-electromagnetics">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7447168786849484801/">LinkedIn</a>]
 
