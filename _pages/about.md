@@ -39,13 +39,17 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   - INI-VPINN: A variational PINN framework with implicit treatment of Neumann and interface conditions for multi-material domains with complex geometries [<a href="https://arxiv.org/abs/2606.18032">Paper</a>][<a href="https://github.com/ShayanDodge/INI-VPINN">GitHub</a>]
 
+  ![INIVPINN](/images/INIVPINN.gif)
+
   - A STacked Adaptive Residual PINN (STAR-PINN) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][<a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7460580932610252800/">LinkedIn</a>]
 
   ![STAR-PINN Architecture](/images/STARPINN_V2.gif)
 
   - Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [<a href="https://ieeexplore.ieee.org/abstract/document/10755077">Paper</a>][<a href="https://github.com/ShayanDodge/hybrid-bem-pinn-electromagnetics">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7447168786849484801/">LinkedIn</a>]
 
-  
+  ![BEMPINN](/images/BEMPINN.gif)
+
+
 
 **Forecasting Lightning Effects in Electrical Systems (<a href="https://felines.prin.unige.it/">FELINES</a>)**  
   FELINES develops signal processing and deep learning methods for analyzing FDTD-simulated lightning electromagnetic signals and assessing lightning-related risks in power systems and transmission lines. Our contributions include:
