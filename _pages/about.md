@@ -37,7 +37,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 **Physics-Informed Neural Networks (PINNs)**  
   PINNs combine machine learning with governing physical laws, providing a powerful framework for solving scientific and engineering problems. My research contributions in this area include:
 
-  - **INI-VPINN**: A variational PINN framework with implicit treatment of Neumann and interface conditions for multi-material domains with complex geometries [<a href="https://arxiv.org/abs/2606.18032">Paper</a>][<a href="https://github.com/ShayanDodge/INI-VPINN">GitHub</a>]
+  - **INI-VPINN**: A variational PINN framework with implicit treatment of Neumann and interface conditions for multi-material domains with complex geometries [<a href="https://arxiv.org/abs/2606.18032">arXiv</a>][<a href="https://www.sciencedirect.com/science/article/pii/S0021999126006777?dgcid=author">Elsevier</a>][<a href="https://github.com/ShayanDodge/INI-VPINN">GitHub</a>]
 
   <!-- ![INIVPINN](/images/INIVPINN.gif) -->
   <div align="center">
