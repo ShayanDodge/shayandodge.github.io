@@ -81,6 +81,8 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
 ## Recent News
 
+- **[08/2026]** Our work on <a href="https://doi.org/10.1016/j.jcp.2026.115328">INI-VPINN</a> has been published in the Journal of Computational Physics (JCP). [<a href="https://arxiv.org/abs/2606.18032">arXiv</a>] [<a href="https://www.sciencedirect.com/science/article/pii/S0021999126006777?dgcid=author">Elsevier</a>]
+
 - **[06/2026]** Participated in <a href="https://aces-society.org/conference/Greece_2026/">ACES 2026</a> and <a href="https://cefc2026.gr/">CEFC 2026</a> in Thessaloniki, Greece, contributing to five works spanning Scientific Machine Learning, Physics-Informed Neural Networks, Computational Electromagnetics and Biomedical Engineering.
 
 
