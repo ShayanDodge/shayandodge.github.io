@@ -1,3 +1,4 @@
+
 ---
 layout: single
 title: "Academic Activities"
@@ -6,98 +7,164 @@ author_profile: true
 ---
 
 <style>
-.academic-activity-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 20px;
-  margin: 1.5rem 0 2rem;
-}
-.academic-activity-card {
-  min-width: 0;
-  padding: 22px;
-  border: 1px solid rgba(130, 140, 155, .35);
+.academic-section {
+  margin: 2rem 0;
+  padding: 25px;
+  border: 1px solid rgba(130,140,155,.35);
   border-radius: 12px;
-  transition: border-color .2s ease, box-shadow .2s ease, transform .2s ease;
+  scroll-margin-top: 85px;
 }
-.academic-activity-card:hover,
-.academic-activity-card:focus-within {
-  transform: translateY(-3px);
-  border-color: #3b82f6;
-  box-shadow: 0 6px 22px rgba(59,130,246,.12);
+
+.academic-section h2 {
+  font-size: 1.3rem;
+  margin: 0 0 1.2rem;
+  padding: 0 0 12px;
+  border-bottom: 1px solid rgba(130,140,155,.25);
 }
-.academic-activity-card h2 {
-  font-size: 1.12rem;
-  margin: 0 0 1rem;
-  padding: 0;
-  border: 0;
+
+.academic-section h3 {
+  font-size: 1rem;
+  margin: 1.2rem 0 .4rem;
 }
-.academic-activity-card h3 {
-  font-size: .97rem;
-  margin: 1rem 0 .35rem;
+
+.academic-section p,
+.academic-section li {
+  font-size: .92rem;
+  line-height: 1.7;
 }
-.academic-activity-card p,
-.academic-activity-card li {
-  font-size: .88rem;
-  line-height: 1.55;
+
+.academic-meta {
+  font-size: .83rem !important;
+  opacity: .7;
+  margin: .3rem 0 1rem;
 }
-.academic-activity-card ul { padding-left: 1.2rem; margin: .55rem 0; }
-.academic-activity-meta { opacity: .75; font-size: .8rem !important; }
-.academic-activity-link { display: inline-block; margin-top: .4rem; font-size: .87rem; }
-@media (max-width: 680px) {
-  .academic-activity-grid { grid-template-columns: 1fr; }
-  .academic-activity-card { padding: 17px; }
+
+.academic-section ul {
+  padding-left: 1.4rem;
 }
-@media (prefers-reduced-motion: reduce) {
-  .academic-activity-card { transition: none; }
-  .academic-activity-card:hover { transform: none; }
+
+.academic-section a {
+  text-decoration: none;
+}
+
+.academic-section a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 650px) {
+  .academic-section {
+    padding: 17px;
+  }
 }
 </style>
 
-Alongside my research, I contribute to journal editorial activities, peer review, conference organization, teaching, and student supervision.
+Alongside my research, I contribute to journal editorial
+activities, peer review, conference organization,
+teaching, and student supervision.
 
-<div class="academic-activity-grid">
-  <section class="academic-activity-card" id="editorial-service">
-    <h2>Editorial &amp; Peer Review</h2>
-    <p><strong>Student Editorial Assistant</strong><br>
-      <em>IEEE Journal on Multiscale and Multiphysics Computational Techniques (JMMCT)</em></p>
-    <p class="academic-activity-meta">December 2025 – Present</p>
-    <a class="academic-activity-link" href="https://ieee-jmmct.org/editorial-board/#student-editorial-assistants">View editorial board ↗</a>
-    <h3>Journal Reviewer</h3>
-    <p>Reviewer for seven international journals:</p>
-    <ul>
-      <li>IEEE Transactions on Magnetics</li>
-      <li>IEEE Journal on Multiscale and Multiphysics Computational Techniques</li>
-      <li>COMPEL</li>
-      <li>Applied Computational Electromagnetics Society Journal</li>
-      <li>Physics of Plasmas</li>
-      <li>Optics Express</li>
-      <li>Waves in Random and Complex Media</li>
-    </ul>
-  </section>
+<section class="academic-section" id="editorial-service">
 
-  <section class="academic-activity-card" id="conference-organization">
-    <h2>Conference Organization</h2>
-    <p><strong>Organizing Committee Member</strong><br>
-      19th International Workshop on Optimization and Inverse Problems in Electromagnetism (OIPE 2027)</p>
-    <p class="academic-activity-meta">5–9 September 2027 · Pisa, Italy</p>
-    <p>Supporting the organization of OIPE 2027 and engagement with the electromagnetics and inverse-problems research community.</p>
-  </section>
+<h2>Editorial &amp; Peer Review</h2>
 
-  <section class="academic-activity-card" id="teaching">
-    <h2>Teaching</h2>
-    <p><strong>Teaching Assistant — Electrical Circuit Theory</strong><br>
-      Department of Information Engineering, University of Pisa<br>
-      B.Sc. in Electrical Engineering</p>
-    <p class="academic-activity-meta">Academic years 2024/2025 and 2025/2026</p>
-  </section>
+<h3>Student Editorial Assistant</h3>
 
-  <section class="academic-activity-card" id="supervision">
-    <h2>Student Supervision</h2>
-    <p><strong>B.Sc. Thesis Co-Supervisor</strong><br>
-      B.Sc. in Biomedical Engineering, University of Pisa</p>
-    <h3>2025/2026</h3>
-    <p>Deep Learning for TMS using FEM-Generated Datasets</p>
-    <h3>2024/2025</h3>
-    <p>Automated TMS Dataset Generation using MATLAB and SimNIBS</p>
-  </section>
-</div>
+<p>
+  <em>IEEE Journal on Multiscale and Multiphysics
+  Computational Techniques (JMMCT)</em>
+</p>
+
+<p class="academic-meta">
+  December 2025 – Present
+</p>
+
+<p>
+  <a href="https://ieee-jmmct.org/editorial-board/#student-editorial-assistants">
+    View Editorial Board ↗
+  </a>
+</p>
+
+<h3>Journal Reviewer</h3>
+
+<p>Reviewer for seven international scientific journals:</p>
+
+<ul>
+  <li>IEEE Transactions on Magnetics</li>
+  <li>IEEE Journal on Multiscale and Multiphysics Computational Techniques</li>
+  <li>COMPEL</li>
+  <li>Applied Computational Electromagnetics Society Journal</li>
+  <li>Physics of Plasmas</li>
+  <li>Optics Express</li>
+  <li>Waves in Random and Complex Media</li>
+</ul>
+
+</section>
+
+
+<section class="academic-section" id="conference-organization">
+
+<h2>Conference Organization</h2>
+
+<h3>Organizing Committee Member — OIPE 2027</h3>
+
+<p>
+  19th International Workshop on Optimization and
+  Inverse Problems in Electromagnetism (OIPE 2027)
+</p>
+
+<p class="academic-meta">
+  5–9 September 2027 · Pisa, Italy
+</p>
+
+<p>
+  Supporting the organization of OIPE 2027 and
+  engagement with the electromagnetics and
+  inverse-problems research community.
+</p>
+
+</section>
+
+
+<section class="academic-section" id="teaching">
+
+<h2>Teaching</h2>
+
+<h3>Teaching Assistant — Electrical Circuit Theory</h3>
+
+<p>
+  University of Pisa, Italy<br>
+  Department of Information Engineering<br>
+  B.Sc. in Electrical Engineering
+</p>
+
+<ul>
+  <li>Academic Year 2025/2026</li>
+  <li>Academic Year 2024/2025</li>
+</ul>
+
+</section>
+
+
+<section class="academic-section" id="supervision">
+
+<h2>Student Supervision</h2>
+
+<p>
+  <strong>B.Sc. Thesis Co-Supervisor</strong><br>
+  University of Pisa, Italy<br>
+  B.Sc. in Biomedical Engineering
+</p>
+
+<h3>Academic Year 2025/2026</h3>
+
+<p>
+  Deep Learning for TMS using FEM-Generated Datasets
+</p>
+
+<h3>Academic Year 2024/2025</h3>
+
+<p>
+  Automated TMS Dataset Generation using MATLAB
+  and SimNIBS
+</p>
+
+</section>
