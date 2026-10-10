@@ -69,7 +69,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 </div>
 
 <div class="research-block">
-  <img src="/images/your-figure-2.png" alt="AI for Power and Energy Systems">
+  <img src="/images/figure2.png" alt="AI for Power and Energy Systems">
   <h3>AI for Power and Energy Systems</h3>
   <p>Lightning localization, peak-current estimation, induced overvoltages, and power-system protection.</p>
   <p><strong>Featured work:</strong> FELINES and electromagnetic inverse problems.</p>
