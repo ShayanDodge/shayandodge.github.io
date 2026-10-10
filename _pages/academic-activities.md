@@ -176,27 +176,26 @@ teaching, and student supervision.
 </section>
 
 
+
 <section class="academic-section" id="supervision">
 
 <h2>Student Supervision</h2>
 
-<p>
-  <strong>B.Sc. Thesis Co-Supervisor</strong><br>
-  University of Pisa, Italy<br>
-  B.Sc. in Biomedical Engineering
-</p>
+<h3>B.Sc. Thesis Co-Supervisor — University of Pisa, Italy</h3>
 
-<h3>Academic Year 2025/2026</h3>
+<ul>
+  <li>
+    <strong>Academic Year 2025/2026</strong><br>
+    B.Sc. in Biomedical Engineering<br>
+    Deep Learning for TMS using FEM-Generated Datasets
+  </li>
 
-<p>
-  Deep Learning for TMS using FEM-Generated Datasets
-</p>
-
-<h3>Academic Year 2024/2025</h3>
-
-<p>
-  Automated TMS Dataset Generation using MATLAB
-  and SimNIBS
-</p>
+  <li>
+    <strong>Academic Year 2024/2025</strong><br>
+    B.Sc. in Biomedical Engineering<br>
+    Automated TMS Dataset Generation using MATLAB and SimNIBS
+  </li>
+</ul>
 
 </section>
+
