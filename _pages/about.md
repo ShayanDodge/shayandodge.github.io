@@ -129,7 +129,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   <a class="research-card"
      href="/research/#scientific-machine-learning">
-    <img src="/images/scientific_machine_learning_for_pdes.png"
+    <img src="/images/figure1.png"
          alt="Scientific Machine Learning">
     <h3>Scientific Machine Learning for PDEs</h3>
     <p>PINNs, variational methods, neural operators,
@@ -139,7 +139,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   <a class="research-card"
      href="/research/#power-energy">
-    <img src="/images/ai_for_power_and_energy_systems_workflow.png"
+    <img src="/images/figure2.png"
          alt="AI for Power and Energy Systems">
     <h3>AI for Power and Energy Systems</h3>
     <p>Lightning localization, peak-current estimation,
@@ -149,7 +149,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   <a class="research-card"
      href="/research/#biomedical">
-    <img src="/images/ai_for_biomedical_electromagnetics_pipeline.png"
+    <img src="/images/figure3.png"
          alt="AI for Biomedical Electromagnetics">
     <h3>AI for Biomedical Electromagnetics</h3>
     <p>Generative models for patient-specific TMS,
@@ -159,7 +159,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
   <a class="research-card"
      href="/research/#geophysics">
-    <img src="/images/geophysical_inversion_workflow_infographic.png"
+    <img src="/images/figure4.png"
          alt="Geophysical Inversion">
     <h3>Geophysical Inversion and Scientific Computing</h3>
     <p>AI-based geophysical inversion, electrical
