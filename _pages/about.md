@@ -119,10 +119,6 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 </style>
 
 
-
-## Research Areas
-
-
 <h2>Research Areas</h2>
 
 <div class="research-grid">
