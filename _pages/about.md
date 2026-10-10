@@ -77,7 +77,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 </div>
 
 <div class="research-block">
-  <img src="/images/your-figure-3.png" alt="AI for Biomedical Electromagnetics">
+  <img src="/images/figure3.png" alt="AI for Biomedical Electromagnetics">
   <h3>AI for Biomedical Electromagnetics</h3>
   <p>Patient-specific TMS, generative electric-field modeling, inverse coil placement, and SAR prediction.</p>
   <p><strong>Featured work:</strong> STEM-DEEP, TMS optimization, SAR prediction.</p>
@@ -85,7 +85,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 </div>
 
 <div class="research-block">
-  <img src="/images/your-figure-4.png" alt="Geophysical Inversion and Scientific Computing">
+  <img src="/images/figure4.png" alt="Geophysical Inversion and Scientific Computing">
   <h3>Geophysical Inversion and Scientific Computing</h3>
   <p>Electrical resistivity tomography, electromagnetic inverse problems, and GPU-accelerated scientific computing.</p>
   <p><strong>Featured work:</strong> AIGEO, ERT inversion, GPU-accelerated FDTD.</p>
