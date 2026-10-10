@@ -369,9 +369,106 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
 ## Academic Activities
 
-Alongside my research, I contribute to journal editorial service and peer review, conference organization, teaching, and undergraduate thesis supervision at the University of Pisa.
+<style>
+/* Academic Activities navigation cards */
 
-[Explore Academic Activities →](/academic-activities/)
+.academic-menu {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 30px 0 45px;
+}
+
+.academic-menu-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 22px;
+  border: 1px solid #7775;
+  border-radius: 12px;
+  text-decoration: none !important;
+  color: inherit;
+  transition: border-color .25s ease,
+              box-shadow .25s ease,
+              transform .25s ease;
+}
+
+.academic-menu-card:hover,
+.academic-menu-card:focus-visible {
+  border-color: #3b82f6;
+  transform: translateY(-4px);
+  box-shadow: 0 6px 22px rgba(59,130,246,.15);
+}
+
+.academic-menu-icon {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.academic-menu-card strong {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.academic-menu-card span:last-child {
+  font-size: .8rem;
+  color: #60a5fa;
+}
+
+.academic-details {
+  display: block;
+}
+
+.academic-details .academic-activity-card {
+  margin-bottom: 24px;
+  scroll-margin-top: 90px;
+}
+
+@media (max-width: 650px) {
+  .academic-menu {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .academic-menu-card {
+    transition: none;
+  }
+  .academic-menu-card:hover {
+    transform: none;
+  }
+}
+</style>
+
+<div class="academic-menu">
+
+  <a href="#editorial-service" class="academic-menu-card">
+    <span class="academic-menu-icon">▤</span>
+    <strong>Editorial &amp; Peer Review</strong>
+    <span>View details →</span>
+  </a>
+
+  <a href="#conference-organization" class="academic-menu-card">
+    <span class="academic-menu-icon">▦</span>
+    <strong>Conference Organization</strong>
+    <span>View details →</span>
+  </a>
+
+  <a href="#teaching" class="academic-menu-card">
+    <span class="academic-menu-icon">▣</span>
+    <strong>Teaching</strong>
+    <span>View details →</span>
+  </a>
+
+  <a href="#supervision" class="academic-menu-card">
+    <span class="academic-menu-icon">◇</span>
+    <strong>Student Supervision</strong>
+    <span>View details →</span>
+  </a>
+
+</div>
+
 
 
 ---
