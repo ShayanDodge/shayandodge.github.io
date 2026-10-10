@@ -164,7 +164,6 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 ## Key Contributions
 
 <style>
-
 /* Selected Research Contributions */
 
 .contribution-card {
@@ -264,7 +263,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
     transform: none;
   }
 }
-<style>
+</style>
 
 
 <h2>Key Contributions</h2>
