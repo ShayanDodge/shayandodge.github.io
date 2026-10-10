@@ -156,24 +156,38 @@ teaching, and student supervision.
 </section>
 
 
+
 <section class="academic-section" id="teaching">
 
 <h2>Teaching</h2>
 
-<h3>Teaching Assistant — Electrical Circuit Theory</h3>
-
-<p>
-  University of Pisa, Italy<br>
-  Department of Information Engineering<br>
-  B.Sc. in Electrical Engineering
-</p>
+<h3>Teaching Assistant — University of Pisa, Italy</h3>
 
 <ul>
-  <li>Academic Year 2025/2026</li>
-  <li>Academic Year 2024/2025</li>
+  <li>
+    <strong>Academic Year 2026/2027</strong><br>
+    Electrical Circuit Theory<br>
+    Department of Information Engineering<br>
+    B.Sc. in Electrical Engineering
+  </li>
+
+  <li>
+    <strong>Academic Year 2025/2026</strong><br>
+    Electrical Circuit Theory<br>
+    Department of Information Engineering<br>
+    B.Sc. in Electrical Engineering
+  </li>
+
+  <li>
+    <strong>Academic Year 2024/2025</strong><br>
+    Electrical Circuit Theory<br>
+    Department of Information Engineering<br>
+    B.Sc. in Electrical Engineering
+  </li>
 </ul>
 
 </section>
+
 
 
 
