@@ -141,7 +141,7 @@ teaching, and student supervision.
 </p>
 
 <div class="academic-section-image">
-  <img src="/images/oipe2027.png" alt="OIPE 2027 conference poster">
+  <img src="/images/OIPE2027.png" alt="OIPE 2027 conference poster">
   <div class="academic-section-image-caption">
     Official OIPE 2027 conference announcement
   </div>
