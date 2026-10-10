@@ -37,45 +37,59 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 ## Research Areas
 
 <style>
-  /* Append this to your site's custom stylesheet, or place it in a <style> block
-    within _pages/about.md below the research-card HTML. */
-  .research-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; margin:1.5rem 0 2rem; }
-  .research-card { display:block; padding:1.3rem; border:1px solid #c7cbd1; border-radius:12px; color:inherit !important; text-decoration:none !important; transition:transform .15s ease,border-color .15s ease,box-shadow .15s ease; }
-  .research-card:hover, .research-card:focus-visible { transform:translateY(-2px); border-color:#5279a9; box-shadow:0 4px 16px rgba(0,0,0,.10); }
-  .research-card__icon { font-size:1.7rem; margin-bottom:.5rem; color:#668dba; }
-  .research-card h3 { margin:.1rem 0 .65rem; font-size:1.05rem; line-height:1.35; }
-  .research-card p { font-size:.9rem; line-height:1.5; margin:0 0 1rem; }
-  .research-card span { font-size:.85rem; font-weight:700; }
-  @media (max-width:650px) { .research-grid { grid-template-columns:1fr; } }
+.research-block {
+  margin: 2.5rem 0;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #333;
+}
+
+.research-block img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1rem auto;
+  border-radius: 10px;
+}
+
+.research-block h3 {
+  margin-bottom: 0.5rem;
+}
+
+.research-block p {
+  margin-bottom: 0.6rem;
+}
 </style>
 
-My work connects scientific machine learning methods with electromagnetic forward and inverse problems. Explore each area for featured projects, papers, and open-source code.
+<div class="research-block">
+  <img src="/images/your-figure-1.png" alt="Scientific Machine Learning for PDEs">
+  <h3>Scientific Machine Learning for PDEs</h3>
+  <p>PINNs, variational PINNs, weak formulations, neural operators, DeepONet, and Fourier neural operators.</p>
+  <p><strong>Featured work:</strong> INI-VPINN, STAR-PINN, hybrid BEM–PINN, PI-FNO.</p>
+  <p><a href="/research/#scientific-machine-learning">Read more →</a></p>
+</div>
 
-<div class="research-grid">
-  <a class="research-card" href="{{ '/research/#scientific-machine-learning' | relative_url }}">
-    <div class="research-card__icon" aria-hidden="true">∂</div>
-    <h3>Scientific Machine Learning for PDEs</h3>
-    <p>PINNs, variational formulations, weak-form learning, DeepONet, and Fourier neural operators.</p>
-    <span>Explore research →</span>
-  </a>
-  <a class="research-card" href="{{ '/research/#power-energy-systems' | relative_url }}">
-    <div class="research-card__icon" aria-hidden="true">⚡</div>
-    <h3>AI for Power and Energy Systems</h3>
-    <p>Lightning localization, peak-current estimation, induced overvoltages, and power-system protection.</p>
-    <span>Explore research →</span>
-  </a>
-  <a class="research-card" href="{{ '/research/#biomedical-electromagnetics' | relative_url }}">
-    <div class="research-card__icon" aria-hidden="true">◎</div>
-    <h3>AI for Biomedical Electromagnetics</h3>
-    <p>Patient-specific TMS, generative field modeling, inverse optimization, and SAR prediction.</p>
-    <span>Explore research →</span>
-  </a>
-  <a class="research-card" href="{{ '/research/#geophysical-inversion' | relative_url }}">
-    <div class="research-card__icon" aria-hidden="true">⌁</div>
-    <h3>Geophysical Inversion and Scientific Computing</h3>
-    <p>ERT, electromagnetic inverse problems, physics-informed inversion, and GPU-accelerated FDTD.</p>
-    <span>Explore research →</span>
-  </a>
+<div class="research-block">
+  <img src="/images/your-figure-2.png" alt="AI for Power and Energy Systems">
+  <h3>AI for Power and Energy Systems</h3>
+  <p>Lightning localization, peak-current estimation, induced overvoltages, and power-system protection.</p>
+  <p><strong>Featured work:</strong> FELINES and electromagnetic inverse problems.</p>
+  <p><a href="/research/#power-energy">Read more →</a></p>
+</div>
+
+<div class="research-block">
+  <img src="/images/your-figure-3.png" alt="AI for Biomedical Electromagnetics">
+  <h3>AI for Biomedical Electromagnetics</h3>
+  <p>Patient-specific TMS, generative electric-field modeling, inverse coil placement, and SAR prediction.</p>
+  <p><strong>Featured work:</strong> STEM-DEEP, TMS optimization, SAR prediction.</p>
+  <p><a href="/research/#biomedical">Read more →</a></p>
+</div>
+
+<div class="research-block">
+  <img src="/images/your-figure-4.png" alt="Geophysical Inversion and Scientific Computing">
+  <h3>Geophysical Inversion and Scientific Computing</h3>
+  <p>Electrical resistivity tomography, electromagnetic inverse problems, and GPU-accelerated scientific computing.</p>
+  <p><strong>Featured work:</strong> AIGEO, ERT inversion, GPU-accelerated FDTD.</p>
+  <p><a href="/research/#geophysics">Read more →</a></p>
 </div>
 
 
