@@ -61,7 +61,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 </style>
 
 <div class="research-block">
-  <img src="/images/your-figure-1.png" alt="Scientific Machine Learning for PDEs">
+  <img src="/images/figure1.png" alt="Scientific Machine Learning for PDEs">
   <h3>Scientific Machine Learning for PDEs</h3>
   <p>PINNs, variational PINNs, weak formulations, neural operators, DeepONet, and Fourier neural operators.</p>
   <p><strong>Featured work:</strong> INI-VPINN, STAR-PINN, hybrid BEM–PINN, PI-FNO.</p>
