@@ -402,8 +402,14 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 }
 
 .academic-menu-icon {
-  font-size: 1.5rem;
-  line-height: 1;
+  font-size: 1.35rem;
+  line-height: 1.2;
+  color: #64748b;
+  margin-bottom: 4px;
+}
+
+.academic-menu-card:hover .academic-menu-icon {
+  color: #3b82f6;
 }
 
 .academic-menu-card strong {
@@ -441,28 +447,37 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 }
 </style>
 
+
 <div class="academic-menu">
 
-  <a href="#editorial-service" class="academic-menu-card">
-    <span class="academic-menu-icon">▤</span>
+  <a href="/academic-activities/#editorial-service"
+     class="academic-menu-card">
+    <i class="fas fa-book-open academic-menu-icon"
+       aria-hidden="true"></i>
     <strong>Editorial &amp; Peer Review</strong>
     <span>View details →</span>
   </a>
 
-  <a href="#conference-organization" class="academic-menu-card">
-    <span class="academic-menu-icon">▦</span>
+  <a href="/academic-activities/#conference-organization"
+     class="academic-menu-card">
+    <i class="fas fa-calendar-alt academic-menu-icon"
+       aria-hidden="true"></i>
     <strong>Conference Organization</strong>
     <span>View details →</span>
   </a>
 
-  <a href="#teaching" class="academic-menu-card">
-    <span class="academic-menu-icon">▣</span>
+  <a href="/academic-activities/#teaching"
+     class="academic-menu-card">
+    <i class="fas fa-chalkboard-teacher academic-menu-icon"
+       aria-hidden="true"></i>
     <strong>Teaching</strong>
     <span>View details →</span>
   </a>
 
-  <a href="#supervision" class="academic-menu-card">
-    <span class="academic-menu-icon">◇</span>
+  <a href="/academic-activities/#supervision"
+     class="academic-menu-card">
+    <i class="fas fa-graduation-cap academic-menu-icon"
+       aria-hidden="true"></i>
     <strong>Student Supervision</strong>
     <span>View details →</span>
   </a>
