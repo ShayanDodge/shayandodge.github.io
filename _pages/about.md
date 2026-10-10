@@ -35,108 +35,140 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 <!-- Insert this immediately ABOVE the existing `## Key Contributions` heading in `_pages/about.md`. -->
 
 
+
 <style>
-.research-row {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-  margin: 2.5rem 0;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid #333;
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin: 2rem 0;
 }
 
-.research-row img {
-  width: 260px;
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px;
-  flex-shrink: 0;
+.research-card {
+  display: block;
+  padding: 15px;
+  border: 1px solid #555;
+  border-radius: 12px;
+  background: transparent;
+  color: inherit;
+  text-decoration: none !important;
+  transition: transform 0.25s ease,
+              border-color 0.25s ease,
+              box-shadow 0.25s ease;
 }
 
-.research-text {
-  flex: 1;
+.research-card:hover,
+.research-card:focus-visible {
+  transform: translateY(-5px);
+  border-color: #3b82f6;
+  box-shadow: 0 6px 22px rgba(59,130,246,0.20);
 }
 
-.research-text h3 {
-  margin-top: 0;
-  margin-bottom: 0.6rem;
+.research-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: contain;
+  border-radius: 8px;
+  background: white;
 }
 
-.research-text p {
-  margin-bottom: 0.6rem;
+.research-card h3 {
+  font-size: 1.05rem;
+  line-height: 1.4;
+  margin: 14px 0 8px;
+  font-weight: 600;
+  color: inherit;
 }
 
-.research-text .featured {
-  margin-top: 0.5rem;
+.research-card:hover h3,
+.research-card:focus-visible h3 {
+  font-weight: 800;
 }
 
-@media (max-width: 768px) {
-  .research-row {
-    flex-direction: column;
-    align-items: flex-start;
+.research-card p {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin: 0 0 10px;
+}
+
+.research-link {
+  color: #60a5fa;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.research-card:hover .research-link {
+  text-decoration: underline;
+}
+
+@media (max-width: 650px) {
+  .research-grid {
+    grid-template-columns: 1fr;
   }
+}
 
-  .research-row img {
-    width: 100%;
-    max-width: 380px;
+@media (prefers-reduced-motion: reduce) {
+  .research-card {
+    transition: none;
+  }
+  .research-card:hover {
+    transform: none;
   }
 }
 </style>
 
 
+
 ## Research Areas
 
-<div class="research-row">
-  <img src="/images/figure1.png" alt="Scientific Machine Learning for PDEs">
-  <div class="research-text">
+
+<h2>Research Areas</h2>
+
+<div class="research-grid">
+
+  <a class="research-card"
+     href="/research/#scientific-machine-learning">
+    <img src="/images/scientific_machine_learning_for_pdes.png"
+         alt="Scientific Machine Learning">
     <h3>Scientific Machine Learning for PDEs</h3>
-    <p>
-      PINNs, variational PINNs, weak formulations, neural operators, DeepONet,
-      and Fourier neural operators for forward and inverse PDE problems.
-    </p>
-    <p class="featured"><strong>Featured work:</strong> INI-VPINN, STAR-PINN, hybrid BEM–PINN, PI-FNO.</p>
-    <p><a href="/research/#scientific-machine-learning">Read more →</a></p>
-  </div>
-</div>
+    <p>PINNs, variational methods, neural operators,
+       and physics-informed learning.</p>
+    <span class="research-link">Explore Research →</span>
+  </a>
 
-<div class="research-row">
-  <img src="/images/figure2.png" alt="AI for Power and Energy Systems">
-  <div class="research-text">
+  <a class="research-card"
+     href="/research/#power-energy">
+    <img src="/images/ai_for_power_and_energy_systems_workflow.png"
+         alt="AI for Power and Energy Systems">
     <h3>AI for Power and Energy Systems</h3>
-    <p>
-      Machine-learning methods for lightning localization, peak-current estimation,
-      induced overvoltages, and power-system protection.
-    </p>
-    <p class="featured"><strong>Featured work:</strong> FELINES and electromagnetic inverse problems.</p>
-    <p><a href="/research/#power-energy">Read more →</a></p>
-  </div>
-</div>
+    <p>Lightning localization, peak-current estimation,
+       and power-system protection.</p>
+    <span class="research-link">Explore Research →</span>
+  </a>
 
-<div class="research-row">
-  <img src="/images/figure3.png" alt="AI for Biomedical Electromagnetics">
-  <div class="research-text">
+  <a class="research-card"
+     href="/research/#biomedical">
+    <img src="/images/ai_for_biomedical_electromagnetics_pipeline.png"
+         alt="AI for Biomedical Electromagnetics">
     <h3>AI for Biomedical Electromagnetics</h3>
-    <p>
-      Generative and data-driven models for biomedical electromagnetics,
-      including MRI-based coil positioning and personalized TMS planning.
-    </p>
-    <p class="featured"><strong>Featured work:</strong> STEM-DEEP, TMS optimization, SAR prediction.</p>
-    <p><a href="/research/#biomedical">Read more →</a></p>
-  </div>
+    <p>Generative models for patient-specific TMS,
+       MRI-based planning, and coil positioning.</p>
+    <span class="research-link">Explore Research →</span>
+  </a>
+
+  <a class="research-card"
+     href="/research/#geophysics">
+    <img src="/images/geophysical_inversion_workflow_infographic.png"
+         alt="Geophysical Inversion">
+    <h3>Geophysical Inversion and Scientific Computing</h3>
+    <p>AI-based geophysical inversion, electrical
+       resistivity tomography, and conductivity mapping.</p>
+    <span class="research-link">Explore Research →</span>
+  </a>
+
 </div>
 
-<div class="research-row">
-  <img src="/images/figure4.png" alt="Geophysical Inversion and Scientific Computing">
-  <div class="research-text">
-    <h3>Geophysical Inversion and Scientific Computing</h3>
-    <p>
-      AI-driven inversion methods for geophysics, using voltage and current data
-      from surface electrodes to predict conductivity distributions.
-    </p>
-    <p class="featured"><strong>Featured work:</strong> AIGEO, ERT inversion, GPU-accelerated FDTD.</p>
-    <p><a href="/research/#geophysics">Read more →</a></p>
-  </div>
-</div>
 
 ## Key Contributions
 
