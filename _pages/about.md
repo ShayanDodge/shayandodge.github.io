@@ -81,11 +81,6 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
   color: inherit;
 }
 
-.research-card:hover h3,
-.research-card:focus-visible h3 {
-  font-weight: 800;
-}
-
 .research-card p {
   font-size: 0.88rem;
   line-height: 1.5;
