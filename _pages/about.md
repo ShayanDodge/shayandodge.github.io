@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shayan Dodge"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -161,7 +161,6 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 </div>
 
 
-## Key Contributions
 
 <style>
 /* Selected Research Contributions */
