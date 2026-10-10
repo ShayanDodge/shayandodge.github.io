@@ -87,7 +87,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 ## Research Areas
 
 <div class="research-row">
-  <img src="/images/scientific_machine_learning_for_pdes.png" alt="Scientific Machine Learning for PDEs">
+  <img src="/images/figure1.png" alt="Scientific Machine Learning for PDEs">
   <div class="research-text">
     <h3>Scientific Machine Learning for PDEs</h3>
     <p>
@@ -100,7 +100,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 </div>
 
 <div class="research-row">
-  <img src="/images/ai_for_power_and_energy_systems_workflow.png" alt="AI for Power and Energy Systems">
+  <img src="/images/figure2.png" alt="AI for Power and Energy Systems">
   <div class="research-text">
     <h3>AI for Power and Energy Systems</h3>
     <p>
@@ -113,7 +113,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 </div>
 
 <div class="research-row">
-  <img src="/images/ai_for_biomedical_electromagnetics_pipeline.png" alt="AI for Biomedical Electromagnetics">
+  <img src="/images/figure3.png" alt="AI for Biomedical Electromagnetics">
   <div class="research-text">
     <h3>AI for Biomedical Electromagnetics</h3>
     <p>
@@ -126,7 +126,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 </div>
 
 <div class="research-row">
-  <img src="/images/geophysical_inversion_workflow_infographic.png" alt="Geophysical Inversion and Scientific Computing">
+  <img src="/images/figure4.png" alt="Geophysical Inversion and Scientific Computing">
   <div class="research-text">
     <h3>Geophysical Inversion and Scientific Computing</h3>
     <p>
