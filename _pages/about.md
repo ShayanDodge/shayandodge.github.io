@@ -163,48 +163,209 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
 ## Key Contributions
 
-**Physics-Informed Neural Networks (PINNs)**  
-  PINNs combine machine learning with governing physical laws, providing a powerful framework for solving scientific and engineering problems. My research contributions in this area include:
+<style>
 
-  - **INI-VPINN**: A variational PINN framework with implicit treatment of Neumann and interface conditions for multi-material domains with complex geometries [<a href="https://arxiv.org/abs/2606.18032">arXiv</a>][<a href="https://www.sciencedirect.com/science/article/pii/S0021999126006777?dgcid=author">Elsevier</a>][<a href="https://github.com/ShayanDodge/INI-VPINN">GitHub</a>]
+/* Selected Research Contributions */
 
-  <!-- ![INIVPINN](/images/INIVPINN.gif) -->
-  <div align="center">
-  <img src="/images/INIVPINN.gif" alt="INIVPINN" width="600">
+.contribution-card {
+  border: 1px solid #7775;
+  border-radius: 12px;
+  padding: 24px;
+  margin: 24px 0;
+  transition: border-color .25s ease,
+              box-shadow .25s ease,
+              transform .25s ease;
+}
+
+.contribution-card:hover {
+  border-color: #3b82f6;
+  box-shadow: 0 6px 22px rgba(59,130,246,.12);
+  transform: translateY(-3px);
+}
+
+.contribution-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.contribution-number {
+  font-size: .78rem;
+  letter-spacing: .08em;
+  opacity: .65;
+  font-weight: 600;
+}
+
+.contribution-year {
+  font-size: .78rem;
+  padding: 4px 12px;
+  border: 1px solid #7775;
+  border-radius: 20px;
+}
+
+.contribution-card h3 {
+  margin: 0 0 12px;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.contribution-card p {
+  font-size: .94rem;
+  line-height: 1.65;
+  margin-bottom: 18px;
+}
+
+.contribution-card img {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: 16px auto 22px;
+  border-radius: 8px;
+}
+
+.contribution-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.contribution-links a {
+  display: inline-block;
+  padding: 7px 14px;
+  font-size: .83rem;
+  border: 1px solid #7776;
+  border-radius: 7px;
+  text-decoration: none !important;
+  color: inherit;
+  transition: border-color .2s ease,
+              background .2s ease;
+}
+
+.contribution-links a:hover {
+  border-color: #3b82f6;
+  background: rgba(59,130,246,.08);
+}
+
+@media (max-width: 600px) {
+  .contribution-card {
+    padding: 16px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .contribution-card,
+  .contribution-links a {
+    transition: none;
+  }
+  .contribution-card:hover {
+    transform: none;
+  }
+}
+<style>
+
+
+<h2>Key Contributions</h2>
+
+<div class="contribution-card">
+  <div class="contribution-top">
+    <span class="contribution-number">
+      01 / SELECTED RESEARCH
+    </span>
+    <span class="contribution-year">2026</span>
   </div>
-  [Read more ...]
 
-  - A **S**Tacked **A**daptive **R**esidual **PINN** (**STAR-PINN**) for time-domain magnetic diffusion [<a href="https://ieeexplore.ieee.org/abstract/document/11122441">Paper</a>][<a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7460580932610252800/">LinkedIn</a>]
+  <h3>INI-VPINN</h3>
 
-  <!-- ![STAR-PINN Architecture](/images/STARPINN_V2.gif) -->
-  <div align="center">
-  <img src="/images/STARPINN_V2.gif" alt="STAR-PINN" width="600">
+  <p>
+    A variational PINN framework with implicit treatment
+    of Neumann and interface conditions for multi-material
+    domains with complex geometries.
+  </p>
+
+  <img src="/images/INIVPINN.gif"
+       alt="INI-VPINN numerical simulation"
+       loading="lazy">
+
+  <div class="contribution-links">
+    <a href="https://arxiv.org/abs/2606.18032">
+      arXiv ↗
+    </a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0021999126006777">
+      Elsevier ↗
+    </a>
+    <a href="https://github.com/ShayanDodge/INI-VPINN">
+      GitHub ↗
+    </a>
   </div>
-  [<a href="https://shayandodge.com/posts/2026/06/star-pinn-v1-0-0/">Read more ...</a>]
+</div>
 
-  - **BEM-PINN**: Hybrid Boundary Element–PINN Method for Electromagnetic Analysis [<a href="https://ieeexplore.ieee.org/abstract/document/10755077">Paper</a>][<a href="https://github.com/ShayanDodge/hybrid-bem-pinn-electromagnetics">GitHub</a>][<a href="https://www.linkedin.com/feed/update/urn:li:activity:7447168786849484801/">LinkedIn</a>]
-
-  <!-- ![BEMPINN](/images/BEMPINN.gif) -->
-  <div align="center">
-  <img src="/images/BEMPINN.gif" alt="BEMPINN" width="600">
+<div class="contribution-card">
+  <div class="contribution-top">
+    <span class="contribution-number">
+      02 / SELECTED RESEARCH
+    </span>
+    <span class="contribution-year">2025</span>
   </div>
-  [<a href="https://shayandodge.com/posts/2026/04/Hybrid-BEM-PINN-Electromagnetics-v1-0-0/">Read more ...</a>]
 
+  <h3>STAR-PINN</h3>
 
+  <p>
+    A STacked Adaptive Residual PINN approach for
+    time-domain magnetic diffusion in nonlinear materials.
+  </p>
 
-**Forecasting Lightning Effects in Electrical Systems (<a href="https://felines.prin.unige.it/">FELINES</a>)**  
-  FELINES develops signal processing and deep learning methods for analyzing FDTD-simulated lightning electromagnetic signals and assessing lightning-related risks in power systems and transmission lines. Our contributions include:
+  <img src="/images/STARPINN_V2.gif"
+       alt="STAR-PINN numerical simulation"
+       loading="lazy">
 
-  - Lightning Geolocation and Peak Current Estimation [<a href="https://www.sciencedirect.com/science/article/pii/S0378779625000306">Paper</a>][<a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast/tree/main/Phase%201%20%E2%80%94%20Lightning%20Geolocation%20and%20Peak%20Current%20Estimation">GitHub</a>]
-  
-  More details are available on the <a href="https://felines.prin.unige.it/">project website</a> and <a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast">GitHub</a>.
+  <div class="contribution-links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/11122441">
+      Paper ↗
+    </a>
+    <a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">
+      GitHub ↗
+    </a>
+    <a href="https://shayandodge.com/posts/2026/06/star-pinn-v1-0-0/">
+      Read more ↗
+    </a>
+  </div>
+</div>
 
+<div class="contribution-card">
+  <div class="contribution-top">
+    <span class="contribution-number">
+      03 / SELECTED RESEARCH
+    </span>
+    <span class="contribution-year">2024</span>
+  </div>
 
+  <h3>Hybrid BEM–PINN</h3>
 
-**AI-Based Optimization of Transcranial Magnetic Stimulation (TMS)**  
-  This work develops a generative AI framework for transcranial magnetic stimulation (TMS) planning. A variational autoencoder (VAE) generates desired electric field distributions from clinician-defined targets, while a convolutional neural network (CNN) predicts the corresponding coil position and stimulation parameters using MRI-based head models and FEM simulations accelerated through model order reduction (MOR).
+  <p>
+    A hybrid Boundary Element–Physics-Informed Neural
+    Network method for electromagnetic analysis.
+  </p>
 
-  More details are available on the <a href="https://cad.unipv.it/PRIN/project.html">project website</a>.
+  <img src="/images/BEMPINN.gif"
+       alt="Hybrid BEM-PINN numerical simulation"
+       loading="lazy">
+
+  <div class="contribution-links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10755077">
+      Paper ↗
+    </a>
+    <a href="https://github.com/ShayanDodge/Hybrid-BEM-PINN-Electromagnetics">
+      GitHub ↗
+    </a>
+    <a href="https://shayandodge.com/posts/2026/04/Hybrid-BEM-PINN-Electromagnetics-v1-0-0/">
+      Read more ↗
+    </a>
+  </div>
+</div>
+
 
 ---
 
