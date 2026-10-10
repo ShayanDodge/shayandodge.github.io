@@ -367,6 +367,14 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
 
 ---
 
+## Academic Activities
+
+Alongside my research, I contribute to journal editorial service and peer review, conference organization, teaching, and undergraduate thesis supervision at the University of Pisa.
+
+[Explore Academic Activities →](/academic-activities/)
+
+
+---
 ## Recent News
 
 - **[08/2026]** Our work on <a href="https://doi.org/10.1016/j.jcp.2026.115328">INI-VPINN</a> has been published in the Journal of Computational Physics (JCP). [<a href="https://arxiv.org/abs/2606.18032">arXiv</a>] [<a href="https://www.sciencedirect.com/science/article/pii/S0021999126006777?dgcid=author">Elsevier</a>]
