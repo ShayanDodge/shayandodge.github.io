@@ -55,6 +55,25 @@ author_profile: true
     padding: 17px;
   }
 }
+
+.academic-section-image {
+  margin: 1.2rem 0 0.8rem;
+  text-align: center;
+}
+
+.academic-section-image img {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid rgba(130,140,155,.25);
+}
+
+.academic-section-image-caption {
+  font-size: .82rem;
+  opacity: .75;
+  margin-top: .45rem;
+}
 </style>
 
 Alongside my research, I contribute to journal editorial
@@ -115,9 +134,23 @@ teaching, and student supervision.
 </p>
 
 <p>
-  Supporting the organization of OIPE 2027 and
-  engagement with the electromagnetics and
-  inverse-problems research community.
+  I am part of the organizing committee of
+  <strong>OIPE 2027</strong>, contributing to the preparation
+  and organization of the 19th International Workshop on
+  Optimization and Inverse Problems in Electromagnetism.
+</p>
+
+<div class="academic-section-image">
+  <img src="/images/oipe2027.png" alt="OIPE 2027 conference poster">
+  <div class="academic-section-image-caption">
+    Official OIPE 2027 conference announcement
+  </div>
+</div>
+
+<p>
+  <a href="https://www.oipe2027.ing.unipi.it/">
+    Visit the conference website ↗
+  </a>
 </p>
 
 </section>
