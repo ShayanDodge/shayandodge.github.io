@@ -6,18 +6,14 @@ author_profile: true
 ---
 
 <style>
+/* Ensure headings targeted from homepage cards remain below the sticky header. */
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
+  scroll-padding-top: 110px;
 }
 
-/* Keep these IDs unchanged: homepage research cards link to them.
-   Adjust -130px if the sticky header height changes. */
-.research-anchor {
-  display: block;
-  position: relative;
-  top: -130px;
-  height: 0;
-  visibility: hidden;
+h2[id] {
+  scroll-margin-top: 110px;
 }
 
 /* Shared styling for every research project card.
@@ -76,10 +72,11 @@ html {
 
 My research lies at the intersection of **scientific machine learning**, **computational electromagnetics**, and **AI for physics**. I develop physics-informed and data-driven numerical approaches for electromagnetic forward and inverse problems, with applications in power systems, biomedical engineering, and geophysical imaging.
 
-<span id="scientific-machine-learning" class="research-anchor"></span>
-<h2>Scientific Machine Learning for PDEs</h2>
+<h2 id="scientific-machine-learning">Scientific Machine Learning for PDEs</h2>
 
 I investigate physics-informed neural networks (PINNs), variational and weak-form formulations, and neural operators for solving and accelerating electromagnetic partial differential equations.
+
+**Selected research:**
 
 <h3>Neural Operators for Computational Electromagnetics</h3>
 
@@ -98,7 +95,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 <div class="research-work">
   <h4>2. PI-DeepONet for Wireless Power Transfer Coil Coupling</h4>
   <p>A hybrid physics-informed and data-driven neural operator framework for fast parametric modeling of wireless power transfer systems. Combining Maxwell's equations, FEM-generated data, and Fourier-based field decomposition, PI-DeepONet predicts magnetic field distributions under varying coil misalignments and air-gap conditions, achieving a relative L2 error below 2.6% in magnetic vector potential prediction.</p>
-  <figure style="--figure-width: 475px;">
+  <figure style="--figure-width: 520px;">
     <img src="/images/WPT.png" alt="PI-DeepONet wireless power transfer results" loading="lazy">
     <figcaption>Parametric electromagnetic field prediction for wireless power transfer systems.</figcaption>
   </figure>
@@ -165,8 +162,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   <p><a href="https://doi.org/10.1109/ACCESS.2024.3500039">Paper</a> &nbsp;·&nbsp; <a href="https://github.com/ShayanDodge/Hybrid-BEM-PINN-Electromagnetics">Code</a></p>
 </div>
 
-<span id="power-energy-systems" class="research-anchor"></span>
-<h2>AI for Power and Energy Systems</h2>
+<h2 id="power-energy-systems">AI for Power and Energy Systems</h2>
 
 My research applies machine learning to lightning characterization and power-system protection, particularly through the FELINES research project.
 
@@ -184,8 +180,7 @@ My research applies machine learning to lightning characterization and power-sys
   <p><a href="https://doi.org/10.1016/j.epsr.2025.111437">Paper</a> &nbsp;·&nbsp; <a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast">Code</a> &nbsp;·&nbsp; <a href="https://felines.prin.unige.it/">Project</a></p>
 </div>
 
-<span id="biomedical-electromagnetics" class="research-anchor"></span>
-<h2>AI for Biomedical Electromagnetics</h2>
+<h2 id="biomedical-electromagnetics">AI for Biomedical Electromagnetics</h2>
 
 My research includes generative learning and inverse modeling for patient-specific transcranial magnetic stimulation (TMS), alongside deep-learning surrogate models for rapid assessment of specific absorption rate (SAR) in electromagnetic devices.
 
@@ -215,8 +210,7 @@ My research includes generative learning and inverse modeling for patient-specif
   <p><a href="https://doi.org/10.1049/smt2.70009">Paper</a></p>
 </div>
 
-<span id="geophysical-inversion" class="research-anchor"></span>
-<h2>Geophysical Inversion and Scientific Computing</h2>
+<h2 id="geophysical-inversion">Geophysical Inversion and Scientific Computing</h2>
 
 My research covers physics-informed and data-driven approaches to geophysical electromagnetic inverse problems, together with high-performance computational electromagnetics.
 
@@ -249,3 +243,49 @@ My research covers physics-informed and data-driven approaches to geophysical el
 ---
 
 For research announcements, visit my [blog](/year-archive/). For my full academic record, see the [CV](/files/Shayan_Dodge_CV.pdf).
+
+<!-- Correct anchor positioning after the full page and its images load. -->
+<script>
+(function () {
+  var headerOffset = 110; // Increase if the site navigation overlaps a heading.
+
+  function scrollToResearchSection() {
+    var fragment = window.location.hash.slice(1);
+    if (!fragment) return;
+
+    var id;
+    try {
+      id = decodeURIComponent(fragment);
+    } catch (error) {
+      id = fragment;
+    }
+
+    var target = document.getElementById(id);
+    if (!target || !target.matches('h2[id]')) return;
+
+    var top = target.getBoundingClientRect().top + window.pageYOffset - headerOffset;
+    window.scrollTo({ top: Math.max(0, top), behavior: 'auto' });
+  }
+
+  function correctAnchorPosition() {
+    window.requestAnimationFrame(scrollToResearchSection);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', correctAnchorPosition);
+  } else {
+    correctAnchorPosition();
+  }
+
+  window.addEventListener('load', correctAnchorPosition);
+  window.addEventListener('pageshow', correctAnchorPosition);
+  window.addEventListener('hashchange', correctAnchorPosition);
+
+  // Lazy-loaded figures above the destination can shift the page during loading.
+  document.querySelectorAll('.research-work img').forEach(function (img) {
+    if (!img.complete) {
+      img.addEventListener('load', correctAnchorPosition, { once: true });
+    }
+  });
+})();
+</script>
