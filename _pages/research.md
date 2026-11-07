@@ -100,7 +100,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 <div class="research-work">
   <h4>2. PI-DeepONet for Wireless Power Transfer Coil Coupling</h4>
   <p>A hybrid physics-informed and data-driven neural operator framework for fast parametric modeling of wireless power transfer systems. Combining Maxwell's equations, FEM-generated data, and Fourier-based field decomposition, PI-DeepONet predicts magnetic field distributions under varying coil misalignments and air-gap conditions, achieving a relative L2 error below 2.6% in magnetic vector potential prediction.</p>
-  <figure style="--figure-width: 520px;">
+  <figure style="--figure-width: 475px;">
     <img src="/images/WPT.png" alt="PI-DeepONet wireless power transfer results" loading="lazy">
     <figcaption>Parametric electromagnetic field prediction for wireless power transfer systems.</figcaption>
   </figure>
