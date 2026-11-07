@@ -55,7 +55,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
          style="width:100%;max-width:600px;height:auto;">
   </div>
   -->
-  [Paper 3](https://ieeexplore.ieee.org/document/11774833) 
+  [Paper](https://ieeexplore.ieee.org/document/11774833) 
   
 
   **2. Neural Operator Research — Paper 2**
