@@ -50,13 +50,13 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 
   <!-- Add your figure after uploading it:
   <div align="center">
-    <img src="/images/deeponet-results.png"
+    <img src="/images/PIFNO.png"
          alt="PI-DeepONet results"
          style="width:100%;max-width:600px;height:auto;">
   </div>
   -->
-
-  [Paper 1](https://ieeexplore.ieee.org/document/11653419)
+  [Paper 3](https://ieeexplore.ieee.org/document/11774833) 
+  
 
   **2. Neural Operator Research — Paper 2**
 
@@ -70,8 +70,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
          style="width:100%;max-width:600px;height:auto;">
   </div>
   -->
-
-  [Paper 2](https://ieeexplore.ieee.org/document/11717591)
+  [Paper](https://ieeexplore.ieee.org/document/11717591)
 
   **3. Neural Operator Research — Paper 3**
 
@@ -85,8 +84,8 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
          style="width:100%;max-width:600px;height:auto;">
   </div>
   -->
+  [Paper](https://ieeexplore.ieee.org/document/11653419)
 
-  [Paper 3](https://ieeexplore.ieee.org/document/11774833)
 
 - **INI-VPINN:** Variational PINNs with implicit Neumann
   and interface handling in multi-material domains.
