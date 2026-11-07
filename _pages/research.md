@@ -19,6 +19,50 @@ html {
 }
 
 
+.neural-work {
+  margin: 1.5rem 0 2rem;
+  padding: 22px;
+  border: 1px solid #e2e5e9;
+  border-radius: 12px;
+  background: transparent;
+}
+
+.neural-work h4 {
+  margin-top: 0;
+  margin-bottom: 14px;
+  font-weight: 600;
+}
+
+.neural-work figure {
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+.neural-work figure img {
+  display: block;
+  width: 100%;
+  max-width: 650px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+.neural-work figcaption {
+  margin-top: 10px;
+  font-size: 0.85rem;
+  color: #777;
+  line-height: 1.5;
+}
+
+.neural-work a {
+  text-decoration: none;
+}
+
+.neural-work a:hover {
+  text-decoration: underline;
+}
+
+
 .ini-work {
   margin: 1.5rem 0 2rem;
   padding: 22px;
@@ -51,6 +95,7 @@ html {
   line-height: 1.5;
 }
 
+
 </style>
 
 
@@ -64,28 +109,121 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 
 **Selected research:**
 
-- **Neural Operators:** Physics-informed operator learning
-  for parametric electromagnetic modeling, surrogate
-  simulation, and efficient prediction of electromagnetic
-  field distributions.
 
-  *1. Physics-Informed Fourier Neural Operators (PI-FNO):* A physics-informed neural operator framework for time-domain magnetoquasistatic analysis of nonlinear electromagnetic devices. PI-FNO predicts magnetic vector potential distributions across varying excitation currents and frequencies, accounting for nonlinear magnetic materials and eddy currents. Validated on a 2D inductor benchmark, it achieves a 2.6% average NRMSE and reduces prediction error by more than 66% compared with parametric PINNs. [Paper](https://ieeexplore.ieee.org/document/11774833)
-  <!-- Add your figure after uploading it:  -->
-  <div align="center">
+<h3>Neural Operators for Computational Electromagnetics</h3>
+
+<p>
+This research line investigates physics-informed neural
+operators for parametric electromagnetic modeling,
+surrogate simulation, and efficient prediction of
+electromagnetic field distributions.
+</p>
+
+<div class="neural-work">
+
+  <h4>1. Physics-Informed Fourier Neural Operators (PI-FNO)</h4>
+
+  <p>
+  A physics-informed Fourier neural operator framework
+  for time-domain magnetoquasistatic analysis of nonlinear
+  electromagnetic devices. PI-FNO predicts magnetic vector
+  potential distributions across varying excitation
+  currents and frequencies, accounting for nonlinear
+  magnetic materials and eddy currents. Validated on a
+  2D inductor benchmark, it achieves an average NRMSE
+  of 2.6% and reduces prediction error by more than 66%
+  compared with parametric PINNs.
+  </p>
+
+  <figure>
     <img src="/images/PIFNO.png"
-         alt="PI-DeepONet results"
-         style="width:100%;max-width:600px;height:auto;">
-  </div>
+         alt="PI-FNO framework and numerical results"
+         loading="lazy">
+    <figcaption>
+      PI-FNO framework and numerical results for nonlinear
+      magnetoquasistatic analysis.
+    </figcaption>
+  </figure>
 
-  *2. PI-DeepONet for Wireless Power Transfer Coil Coupling:* A hybrid physics-informed and data-driven neural operator framework for fast parametric modeling of wireless power transfer systems. By combining Maxwell’s equations with FEM-generated data and Fourier-based field decomposition, PI-DeepONet accurately predicts magnetic field distributions under varying coil misalignments and air-gap conditions, achieving a relative L2 error below 2.6% in magnetic vector potential prediction. [Paper](https://ieeexplore.ieee.org/document/11717591)
-  <!-- Add your figure after uploading it:  -->
-  <div align="center">
+  <p>
+    <a href="https://ieeexplore.ieee.org/document/11774833">
+      Paper
+    </a>
+  </p>
+
+</div>
+
+<div class="neural-work">
+
+  <h4>2. PI-DeepONet for Wireless Power Transfer Coil Coupling</h4>
+
+  <p>
+  A hybrid physics-informed and data-driven neural
+  operator framework for fast parametric modeling of
+  wireless power transfer systems. By combining Maxwell's
+  equations with FEM-generated data and Fourier-based
+  field decomposition, PI-DeepONet predicts magnetic
+  field distributions under varying coil misalignments
+  and air-gap conditions, achieving a relative L2 error
+  below 2.6% in magnetic vector potential prediction.
+  </p>
+
+  <figure>
     <img src="/images/WPT.png"
-         alt="Neural operator Paper 2 results"
-         style="width:75%;max-width:600px;height:auto;">
-  </div>
+         alt="PI-DeepONet wireless power transfer results"
+         loading="lazy">
+    <figcaption>
+      Parametric electromagnetic field prediction for
+      wireless power transfer systems.
+    </figcaption>
+  </figure>
 
-  *3. PI-DeepONet for Parametric Electromagnetic Modeling: From Magnetostatics to Magnetoquasistatics:* A physics-informed neural operator framework for efficient parametric modeling of electromagnetic devices, spanning linear and nonlinear magnetostatics to frequency- and time-domain magnetoquasistatics. By incorporating Maxwell’s equations, boundary conditions, and material interface constraints into the learning process, PI-DeepONet enables physically consistent, data-efficient prediction of electromagnetic fields, reducing reliance on computationally expensive FEM simulations. [Paper](https://ieeexplore.ieee.org/document/11653419)
+  <p>
+    <a href="https://ieeexplore.ieee.org/document/11717591">
+      Paper
+    </a>
+  </p>
+
+</div>
+
+<div class="neural-work">
+
+  <h4>3. PI-DeepONet for Parametric Electromagnetic Modeling</h4>
+
+  <p>
+  A physics-informed neural operator framework for
+  efficient parametric modeling of electromagnetic
+  devices, spanning linear and nonlinear magnetostatics
+  to frequency- and time-domain magnetoquasistatics.
+  By incorporating Maxwell's equations, boundary
+  conditions, and material interface constraints into
+  the learning process, PI-DeepONet enables physically
+  consistent, data-efficient prediction of
+  electromagnetic fields.
+  </p>
+
+  <!-- Uncomment after uploading your third figure:
+
+  <figure>
+    <img src="/images/PIDeepONet.png"
+         alt="PI-DeepONet electromagnetic modeling results"
+         loading="lazy">
+    <figcaption>
+      PI-DeepONet predictions for parametric
+      electromagnetic modeling.
+    </figcaption>
+  </figure>
+
+  -->
+
+  <p>
+    <a href="https://ieeexplore.ieee.org/document/11653419">
+      Paper
+    </a>
+  </p>
+
+</div>
+
   
 <h3>INI-VPINN: Variational Physics-Informed Learning</h3>
 
