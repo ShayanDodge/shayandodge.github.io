@@ -5,15 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
+
 <style>
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 120px;
 }
 
 h2[id] {
-  scroll-margin-top: 90px;
+  scroll-margin-top: 120px;
 }
 </style>
+
 
 
 My research lies at the intersection of **scientific machine learning**, **computational electromagnetics**, and **AI for physics**. I develop physics-informed and data-driven numerical approaches for electromagnetic forward and inverse problems, with applications in power systems, biomedical engineering, and geophysical imaging.
