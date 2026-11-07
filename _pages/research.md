@@ -35,7 +35,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   simulation, and efficient prediction of electromagnetic
   field distributions.
 
-  **1. Physics-Informed DeepONet for Electromagnetic Devices**
+  **1. Physics-Informed Fourier Neural Operators (PI-FNO) for Nonlinear Magnetoquasistatic Analysis**
 
   This work develops a physics-informed Deep Operator
   Network for parametric modeling of electromagnetic
