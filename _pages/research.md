@@ -95,9 +95,7 @@ html {
   line-height: 1.5;
 }
 
-
 </style>
-
 
 My research lies at the intersection of **scientific machine learning**, **computational electromagnetics**, and **AI for physics**. I develop physics-informed and data-driven numerical approaches for electromagnetic forward and inverse problems, with applications in power systems, biomedical engineering, and geophysical imaging.
 
