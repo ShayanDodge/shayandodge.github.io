@@ -95,7 +95,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 <div class="research-work">
   <h4>2. PI-DeepONet for Wireless Power Transfer Coil Coupling</h4>
   <p>A hybrid physics-informed and data-driven neural operator framework for fast parametric modeling of wireless power transfer systems. Combining Maxwell's equations, FEM-generated data, and Fourier-based field decomposition, PI-DeepONet predicts magnetic field distributions under varying coil misalignments and air-gap conditions, achieving a relative L2 error below 2.6% in magnetic vector potential prediction.</p>
-  <figure style="--figure-width: 520px;">
+  <figure style="--figure-width: 475px;">
     <img src="/images/WPT.png" alt="PI-DeepONet wireless power transfer results" loading="lazy">
     <figcaption>Parametric electromagnetic field prediction for wireless power transfer systems.</figcaption>
   </figure>
@@ -121,7 +121,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 <div class="research-work">
   <h4>1. INI-VPINN — Original Framework</h4>
   <p>The INI-VPINN framework uses a variational physics-informed formulation to implicitly enforce Neumann boundary and material interface conditions. It avoids additional penalty terms or separate subdomain networks, providing a unified approach to solving PDEs in heterogeneous domains.</p>
-  <figure style="--figure-width: 600px;">
+  <figure style="--figure-width: 500px;">
     <img src="/images/INIVPINN.gif" alt="Original INI-VPINN framework" loading="lazy">
     <figcaption>Original INI-VPINN framework and numerical results.</figcaption>
   </figure>
@@ -145,7 +145,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 <div class="research-work">
   <h4>STAR-PINN — Stacked Adaptive Residual Networks</h4>
   <p>STAR-PINN uses stacked adaptive residual physics-informed neural networks to model nonlinear magnetic diffusion, supporting accurate solution of electromagnetic partial differential equations.</p>
-  <figure style="--figure-width: 650px;">
+  <figure style="--figure-width: 500px;">
     <img src="/images/STARPINN_V2.gif" alt="STAR-PINN framework and nonlinear magnetic diffusion results" loading="lazy">
     <figcaption>STAR-PINN architecture and representative magnetic diffusion results.</figcaption>
   </figure>
@@ -155,7 +155,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 <div class="research-work">
   <h4>Hybrid BEM–PINN for Computational Electromagnetics</h4>
   <p>A hybrid computational framework combining boundary element methods (BEM) with physics-informed neural networks to solve electromagnetic boundary-value problems, leveraging boundary formulations alongside physics-informed learning.</p>
-  <figure style="--figure-width: 650px;">
+  <figure style="--figure-width: 500px;">
     <img src="/images/BEMPINN.gif" alt="Hybrid BEM–PINN methodology and numerical results" loading="lazy">
     <figcaption>Hybrid BEM–PINN approach and representative numerical results.</figcaption>
   </figure>
