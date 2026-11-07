@@ -155,7 +155,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 <div class="research-work">
   <h4>Hybrid BEM–PINN for Computational Electromagnetics</h4>
   <p>A hybrid computational framework combining boundary element methods (BEM) with physics-informed neural networks to solve electromagnetic boundary-value problems, leveraging boundary formulations alongside physics-informed learning.</p>
-  <figure style="--figure-width: 450px;">
+  <figure style="--figure-width: 500px;">
     <img src="/images/BEMPINN.gif" alt="Hybrid BEM–PINN methodology and numerical results" loading="lazy">
     <figcaption>Hybrid BEM–PINN approach and representative numerical results.</figcaption>
   </figure>
