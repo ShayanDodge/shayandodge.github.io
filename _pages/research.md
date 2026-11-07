@@ -48,7 +48,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   <div align="center">
     <img src="/images/WPT.png"
          alt="Neural operator Paper 2 results"
-         style="width:100%;max-width:600px;height:auto;">
+         style="width:50%;max-width:600px;height:auto;">
   </div>
 
   *3. PI-DeepONet for Parametric Electromagnetic Modeling: From Magnetostatics to Magnetoquasistatics:* A physics-informed neural operator framework for efficient parametric modeling of electromagnetic devices, spanning linear and nonlinear magnetostatics to frequency- and time-domain magnetoquasistatics. By incorporating Maxwell’s equations, boundary conditions, and material interface constraints into the learning process, PI-DeepONet enables physically consistent, data-efficient prediction of electromagnetic fields, reducing reliance on computationally expensive FEM simulations. [Paper](https://ieeexplore.ieee.org/document/11653419)
