@@ -7,8 +7,7 @@ author_profile: true
 
 My research lies at the intersection of **scientific machine learning**, **computational electromagnetics**, and **AI for physics**. I develop physics-informed and data-driven numerical approaches for electromagnetic forward and inverse problems, with applications in power systems, biomedical engineering, and geophysical imaging.
 
-## Scientific Machine Learning for PDEs
-{: #scientific-machine-learning }
+<h2 id="scientific-machine-learning">Scientific Machine Learning for PDEs</h2>
 
 I investigate physics-informed neural networks (PINNs), variational and weak-form formulations, and neural operators for solving and accelerating electromagnetic partial differential equations.
 
@@ -19,8 +18,8 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 - **Hybrid BEM–PINN:** Boundary element methods combined with physics-informed learning for electromagnetic problems. [Paper](https://doi.org/10.1109/ACCESS.2024.3500039) · [Code](https://github.com/ShayanDodge/Hybrid-BEM-PINN-Electromagnetics)
 - **Neural operators:** Physics-informed DeepONet surrogate modeling of parametric electromagnetic devices; ongoing work on physics-informed Fourier neural operators. [Paper](https://ieeexplore.ieee.org/abstract/document/11653419)
 
-## AI for Power and Energy Systems
-{: #power-energy-systems }
+
+<h2 id="power-energy-systems">AI for Power and Energy Systems</h2>
 
 Within the **FELINES** research project, I developed machine-learning approaches to lightning localization, peak-current estimation, and lightning-induced overvoltage prediction, supporting computational tools for power-system protection.
 
@@ -30,8 +29,7 @@ Within the **FELINES** research project, I developed machine-learning approaches
 - [FELINES open-source project](https://github.com/ShayanDodge/FELINES-Lightning-Forecast)
 - [FELINES research program](https://felines.prin.unige.it/)
 
-## AI for Biomedical Electromagnetics
-{: #biomedical-electromagnetics }
+<h2 id="biomedical-electromagnetics">AI for Biomedical Electromagnetics</h2>
 
 My research includes generative learning and inverse modeling for patient-specific transcranial magnetic stimulation (TMS), as well as deep-learning surrogate models for rapid assessment of specific absorption rate (SAR) in electromagnetic devices.
 
@@ -40,8 +38,7 @@ My research includes generative learning and inverse modeling for patient-specif
 - **STEM-DEEP:** Generative electric-field modeling and inverse coil-placement optimization for TMS. [Research program](https://cad.unipv.it/PRIN/prin.html)
 - **SAR surrogate modeling:** Rapid prediction of SAR hotspots. [Paper](https://doi.org/10.1049/smt2.70009)
 
-## Geophysical Inversion and Scientific Computing
-{: #geophysical-inversion }
+<h2 id="geophysical-inversion">Geophysical Inversion and Scientific Computing</h2>
 
 My work on **AIGEO** focuses on physics-informed and data-driven approaches to geophysical electromagnetic inverse problems, including electrical resistivity tomography (ERT). My scientific-computing background also includes GPU-accelerated FDTD simulation for wave propagation in plasma.
 
