@@ -17,6 +17,40 @@ author_profile: true
 html {
   scroll-behavior: smooth;
 }
+
+
+.ini-work {
+  margin: 1.5rem 0 2rem;
+  padding: 22px;
+  border: 1px solid #e2e5e9;
+  border-radius: 12px;
+}
+
+.ini-work h4 {
+  margin-top: 0;
+}
+
+.ini-work figure {
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+.ini-work figure img {
+  display: block;
+  max-width: 680px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+.ini-work figcaption {
+  font-size: 0.85rem;
+  color: #777;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
 </style>
 
 
@@ -48,15 +82,79 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   <div align="center">
     <img src="/images/WPT.png"
          alt="Neural operator Paper 2 results"
-         style="width:50%;max-width:600px;height:auto;">
+         style="width:75%;max-width:600px;height:auto;">
   </div>
 
   *3. PI-DeepONet for Parametric Electromagnetic Modeling: From Magnetostatics to Magnetoquasistatics:* A physics-informed neural operator framework for efficient parametric modeling of electromagnetic devices, spanning linear and nonlinear magnetostatics to frequency- and time-domain magnetoquasistatics. By incorporating Maxwell’s equations, boundary conditions, and material interface constraints into the learning process, PI-DeepONet enables physically consistent, data-efficient prediction of electromagnetic fields, reducing reliance on computationally expensive FEM simulations. [Paper](https://ieeexplore.ieee.org/document/11653419)
   
-- **INI-VPINN:** Variational PINNs with implicit Neumann
-  and interface handling in multi-material domains.
-  [Paper](https://arxiv.org/abs/2606.18032) ·
-  [Code](https://github.com/ShayanDodge/INI-VPINN)
+<h3>INI-VPINN: Variational Physics-Informed Learning</h3>
+
+<p>
+This research line investigates variational physics-informed
+neural networks for solving partial differential equations
+in complex geometries and multi-material domains.
+</p>
+
+<div class="ini-work">
+
+  <h4>1. INI-VPINN — Original Framework</h4>
+
+  <p>
+  The INI-VPINN framework employs a variational
+  physics-informed formulation to implicitly enforce
+  Neumann boundary and material interface conditions.
+  It avoids additional penalty terms or separate
+  subdomain networks, providing a unified approach
+  to solving PDEs in heterogeneous domains.
+  </p>
+
+  <figure>
+    <img src="/images/INIVPINN.gif"
+         alt="Original INI-VPINN framework"
+         loading="lazy">
+    <figcaption>
+      Original INI-VPINN framework and numerical results.
+    </figcaption>
+  </figure>
+
+  <p>
+    <a href="https://arxiv.org/abs/2606.18032">
+      Paper
+    </a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/ShayanDodge/INI-VPINN">
+      GitHub
+    </a>
+  </p>
+
+</div>
+
+<div class="ini-work">
+
+  <h4>2. INI-VPINN — Follow-up Research</h4>
+
+  <p>
+  [Insert a concise explanation of the follow-up
+  contribution, the new method, and its numerical
+  validation.]
+  </p>
+
+  <figure>
+    <img src="/images/ini-vpinn-child.png"
+         alt="Follow-up research results"
+         loading="lazy">
+    <figcaption>
+      Follow-up method and numerical results.
+    </figcaption>
+  </figure>
+
+  <p>
+    <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=1usufq0AAAAJ&amp;citation_for_view=1usufq0AAAAJ:MXK_kJrjxJIC">
+      Paper
+    </a>
+  </p>
+
+</div>
 
 - **STAR-PINN:** Stacked adaptive residual PINNs for
   nonlinear magnetic diffusion.
