@@ -129,7 +129,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
   </a>
 
   <a class="research-card"
-     href="/research/#power-energy">
+     href="/research/#power-energy-systems">
     <img src="/images/figure2.png"
          alt="AI for Power and Energy Systems">
     <h3>AI for Power and Energy Systems</h3>
@@ -139,7 +139,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
   </a>
 
   <a class="research-card"
-     href="/research/#biomedical">
+     href="/research/#biomedical-electromagnetics">
     <img src="/images/figure3.png"
          alt="AI for Biomedical Electromagnetics">
     <h3>AI for Biomedical Electromagnetics</h3>
@@ -149,7 +149,7 @@ I develop Physics-Informed Neural Networks (PINNs), variational PINNs, neural op
   </a>
 
   <a class="research-card"
-     href="/research/#geophysics">
+     href="/research/#geophysical-inversion">
     <img src="/images/figure4.png"
          alt="Geophysical Inversion">
     <h3>Geophysical Inversion and Scientific Computing</h3>
