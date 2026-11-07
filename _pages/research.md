@@ -27,12 +27,83 @@ My research lies at the intersection of **scientific machine learning**, **compu
 
 I investigate physics-informed neural networks (PINNs), variational and weak-form formulations, and neural operators for solving and accelerating electromagnetic partial differential equations.
 
+
 **Selected research:**
 
-- **Neural operators:** Physics-informed DeepONet surrogate modeling of parametric electromagnetic devices; ongoing work on physics-informed Fourier neural operators. [Paper1](https://ieeexplore.ieee.org/abstract/document/11653419) [Paper2](https://ieeexplore.ieee.org/abstract/document/11653419) [Paper3](https://ieeexplore.ieee.org/abstract/document/11653419)
-- **INI-VPINN:** Variational PINNs with implicit Neumann and interface handling in multi-material domains. [Paper](https://arxiv.org/abs/2606.18032) · [Code](https://github.com/ShayanDodge/INI-VPINN)
-- **STAR-PINN:** Stacked adaptive residual PINNs for nonlinear magnetic diffusion. [Paper](https://doi.org/10.1109/ACCESS.2025.3597869) · [Code](https://github.com/ShayanDodge/star-pinn-magnetic-diffusion)
-- **Hybrid BEM–PINN:** Boundary element methods combined with physics-informed learning for electromagnetic problems. [Paper](https://doi.org/10.1109/ACCESS.2024.3500039) · [Code](https://github.com/ShayanDodge/Hybrid-BEM-PINN-Electromagnetics)
+- **Neural Operators:** Physics-informed operator learning
+  for parametric electromagnetic modeling, surrogate
+  simulation, and efficient prediction of electromagnetic
+  field distributions.
+
+  **1. Physics-Informed DeepONet for Electromagnetic Devices**
+
+  This work develops a physics-informed Deep Operator
+  Network for parametric modeling of electromagnetic
+  devices, covering linear and nonlinear magnetostatics,
+  frequency-domain magnetoquasistatics, and time-domain
+  magnetoquasistatic problems.
+
+  The framework incorporates physical governing equations,
+  boundary conditions, and material interface constraints
+  into operator learning, reducing the need for large
+  labeled datasets.
+
+  <!-- Add your figure after uploading it:
+  <div align="center">
+    <img src="/images/deeponet-results.png"
+         alt="PI-DeepONet results"
+         style="width:100%;max-width:600px;height:auto;">
+  </div>
+  -->
+
+  [Paper 1](https://ieeexplore.ieee.org/document/11653419)
+
+  **2. Neural Operator Research — Paper 2**
+
+  [Add a short description of the method, the physical
+  problem studied, and the main contribution of Paper 2.]
+
+  <!-- Add your figure after uploading it:
+  <div align="center">
+    <img src="/images/neural-operator-paper2.png"
+         alt="Neural operator Paper 2 results"
+         style="width:100%;max-width:600px;height:auto;">
+  </div>
+  -->
+
+  [Paper 2](https://ieeexplore.ieee.org/document/11717591)
+
+  **3. Neural Operator Research — Paper 3**
+
+  [Add a short description of the method, the physical
+  problem studied, and the main contribution of Paper 3.]
+
+  <!-- Add your figure after uploading it:
+  <div align="center">
+    <img src="/images/neural-operator-paper3.png"
+         alt="Neural operator Paper 3 results"
+         style="width:100%;max-width:600px;height:auto;">
+  </div>
+  -->
+
+  [Paper 3](https://ieeexplore.ieee.org/document/11774833)
+
+- **INI-VPINN:** Variational PINNs with implicit Neumann
+  and interface handling in multi-material domains.
+  [Paper](https://arxiv.org/abs/2606.18032) ·
+  [Code](https://github.com/ShayanDodge/INI-VPINN)
+
+- **STAR-PINN:** Stacked adaptive residual PINNs for
+  nonlinear magnetic diffusion.
+  [Paper](https://doi.org/10.1109/ACCESS.2025.3597869) ·
+  [Code](https://github.com/ShayanDodge/star-pinn-magnetic-diffusion)
+
+- **Hybrid BEM–PINN:** Boundary element methods combined
+  with physics-informed learning for electromagnetic
+  problems.
+  [Paper](https://doi.org/10.1109/ACCESS.2024.3500039) ·
+  [Code](https://github.com/ShayanDodge/Hybrid-BEM-PINN-Electromagnetics)
+
 
 
 
