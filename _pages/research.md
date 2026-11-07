@@ -44,38 +44,17 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
          style="width:100%;max-width:600px;height:auto;">
   </div>
 
-   
-  
-
-  **2. Neural Operator Research — Paper 2**
-
-  [Add a short description of the method, the physical
-  problem studied, and the main contribution of Paper 2.]
-
-  <!-- Add your figure after uploading it:
+  **2. PI-DeepONet for Wireless Power Transfer Coil Coupling:** A hybrid physics-informed and data-driven neural operator framework for fast parametric modeling of wireless power transfer systems. By combining Maxwell’s equations with FEM-generated data and Fourier-based field decomposition, PI-DeepONet accurately predicts magnetic field distributions under varying coil misalignments and air-gap conditions, achieving a relative L2 error below 2.6% in magnetic vector potential prediction. [Paper](https://ieeexplore.ieee.org/document/11717591)
+  <!-- Add your figure after uploading it:  -->
   <div align="center">
-    <img src="/images/neural-operator-paper2.png"
+    <img src="/images/WPT.png"
          alt="Neural operator Paper 2 results"
          style="width:100%;max-width:600px;height:auto;">
   </div>
-  -->
-  [Paper](https://ieeexplore.ieee.org/document/11717591)
 
-  **3. Neural Operator Research — Paper 3**
-
-  [Add a short description of the method, the physical
-  problem studied, and the main contribution of Paper 3.]
-
-  <!-- Add your figure after uploading it:
-  <div align="center">
-    <img src="/images/neural-operator-paper3.png"
-         alt="Neural operator Paper 3 results"
-         style="width:100%;max-width:600px;height:auto;">
-  </div>
-  -->
-  [Paper](https://ieeexplore.ieee.org/document/11653419)
-
-
+  **3. PI-DeepONet for Parametric Electromagnetic Modeling: From Magnetostatics to Magnetoquasistatics:**
+    A physics-informed neural operator framework for efficient parametric modeling of electromagnetic devices, spanning linear and nonlinear magnetostatics to frequency- and time-domain magnetoquasistatics. By incorporating Maxwell’s equations, boundary conditions, and material interface constraints into the learning process, PI-DeepONet enables physically consistent, data-efficient prediction of electromagnetic fields, reducing reliance on computationally expensive FEM simulations. [Paper](https://ieeexplore.ieee.org/document/11653419)
+  
 - **INI-VPINN:** Variational PINNs with implicit Neumann
   and interface handling in multi-material domains.
   [Paper](https://arxiv.org/abs/2606.18032) ·
