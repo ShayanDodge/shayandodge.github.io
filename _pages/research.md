@@ -29,10 +29,11 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 
 **Selected research:**
 
+- **Neural operators:** Physics-informed DeepONet surrogate modeling of parametric electromagnetic devices; ongoing work on physics-informed Fourier neural operators. [Paper1](https://ieeexplore.ieee.org/abstract/document/11653419) [Paper2](https://ieeexplore.ieee.org/abstract/document/11653419) [Paper3](https://ieeexplore.ieee.org/abstract/document/11653419)
 - **INI-VPINN:** Variational PINNs with implicit Neumann and interface handling in multi-material domains. [Paper](https://arxiv.org/abs/2606.18032) · [Code](https://github.com/ShayanDodge/INI-VPINN)
 - **STAR-PINN:** Stacked adaptive residual PINNs for nonlinear magnetic diffusion. [Paper](https://doi.org/10.1109/ACCESS.2025.3597869) · [Code](https://github.com/ShayanDodge/star-pinn-magnetic-diffusion)
 - **Hybrid BEM–PINN:** Boundary element methods combined with physics-informed learning for electromagnetic problems. [Paper](https://doi.org/10.1109/ACCESS.2024.3500039) · [Code](https://github.com/ShayanDodge/Hybrid-BEM-PINN-Electromagnetics)
-- **Neural operators:** Physics-informed DeepONet surrogate modeling of parametric electromagnetic devices; ongoing work on physics-informed Fourier neural operators. [Paper](https://ieeexplore.ieee.org/abstract/document/11653419)
+
 
 
 <span id="power-energy-systems" class="research-anchor"></span>
