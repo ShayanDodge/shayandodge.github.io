@@ -35,8 +35,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   simulation, and efficient prediction of electromagnetic
   field distributions.
 
-  *1. Physics-Informed Fourier Neural Operators (PI-FNO):*
-    A physics-informed neural operator framework for time-domain magnetoquasistatic analysis of nonlinear electromagnetic devices. PI-FNO predicts magnetic vector potential distributions across varying excitation currents and frequencies, accounting for nonlinear magnetic materials and eddy currents. Validated on a 2D inductor benchmark, it achieves a 2.6% average NRMSE and reduces prediction error by more than 66% compared with parametric PINNs. [Paper](https://ieeexplore.ieee.org/document/11774833)
+  *1. Physics-Informed Fourier Neural Operators (PI-FNO):* A physics-informed neural operator framework for time-domain magnetoquasistatic analysis of nonlinear electromagnetic devices. PI-FNO predicts magnetic vector potential distributions across varying excitation currents and frequencies, accounting for nonlinear magnetic materials and eddy currents. Validated on a 2D inductor benchmark, it achieves a 2.6% average NRMSE and reduces prediction error by more than 66% compared with parametric PINNs. [Paper](https://ieeexplore.ieee.org/document/11774833)
   <!-- Add your figure after uploading it:  -->
   <div align="center">
     <img src="/images/PIFNO.png"
@@ -44,7 +43,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
          style="width:100%;max-width:600px;height:auto;">
   </div>
 
-  **2. PI-DeepONet for Wireless Power Transfer Coil Coupling:** A hybrid physics-informed and data-driven neural operator framework for fast parametric modeling of wireless power transfer systems. By combining Maxwell’s equations with FEM-generated data and Fourier-based field decomposition, PI-DeepONet accurately predicts magnetic field distributions under varying coil misalignments and air-gap conditions, achieving a relative L2 error below 2.6% in magnetic vector potential prediction. [Paper](https://ieeexplore.ieee.org/document/11717591)
+  *2. PI-DeepONet for Wireless Power Transfer Coil Coupling:* A hybrid physics-informed and data-driven neural operator framework for fast parametric modeling of wireless power transfer systems. By combining Maxwell’s equations with FEM-generated data and Fourier-based field decomposition, PI-DeepONet accurately predicts magnetic field distributions under varying coil misalignments and air-gap conditions, achieving a relative L2 error below 2.6% in magnetic vector potential prediction. [Paper](https://ieeexplore.ieee.org/document/11717591)
   <!-- Add your figure after uploading it:  -->
   <div align="center">
     <img src="/images/WPT.png"
@@ -52,8 +51,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
          style="width:100%;max-width:600px;height:auto;">
   </div>
 
-  **3. PI-DeepONet for Parametric Electromagnetic Modeling: From Magnetostatics to Magnetoquasistatics:**
-    A physics-informed neural operator framework for efficient parametric modeling of electromagnetic devices, spanning linear and nonlinear magnetostatics to frequency- and time-domain magnetoquasistatics. By incorporating Maxwell’s equations, boundary conditions, and material interface constraints into the learning process, PI-DeepONet enables physically consistent, data-efficient prediction of electromagnetic fields, reducing reliance on computationally expensive FEM simulations. [Paper](https://ieeexplore.ieee.org/document/11653419)
+  *3. PI-DeepONet for Parametric Electromagnetic Modeling: From Magnetostatics to Magnetoquasistatics:* A physics-informed neural operator framework for efficient parametric modeling of electromagnetic devices, spanning linear and nonlinear magnetostatics to frequency- and time-domain magnetoquasistatics. By incorporating Maxwell’s equations, boundary conditions, and material interface constraints into the learning process, PI-DeepONet enables physically consistent, data-efficient prediction of electromagnetic fields, reducing reliance on computationally expensive FEM simulations. [Paper](https://ieeexplore.ieee.org/document/11653419)
   
 - **INI-VPINN:** Variational PINNs with implicit Neumann
   and interface handling in multi-material domains.
