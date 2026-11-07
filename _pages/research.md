@@ -35,17 +35,15 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   simulation, and efficient prediction of electromagnetic
   field distributions.
 
-  **1. Physics-Informed Fourier Neural Operators (PI-FNO) for Nonlinear Magnetoquasistatic Analysis**
-
+  **1. Physics-Informed Fourier Neural Operators (PI-FNO): **
     A physics-informed neural operator framework for time-domain magnetoquasistatic analysis of nonlinear electromagnetic devices. PI-FNO predicts magnetic vector potential distributions across varying excitation currents and frequencies, accounting for nonlinear magnetic materials and eddy currents. Validated on a 2D inductor benchmark, it achieves a 2.6% average NRMSE and reduces prediction error by more than 66% compared with parametric PINNs.
-
-  <!-- Add your figure after uploading it:
+  <!-- Add your figure after uploading it:  -->
   <div align="center">
     <img src="/images/PIFNO.png"
          alt="PI-DeepONet results"
          style="width:100%;max-width:600px;height:auto;">
   </div>
-  -->
+
   [Paper](https://ieeexplore.ieee.org/document/11774833) 
   
 
