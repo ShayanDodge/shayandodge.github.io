@@ -138,7 +138,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   <p><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=1usufq0AAAAJ&amp;citation_for_view=1usufq0AAAAJ:MXK_kJrjxJIC">Paper</a></p>
 </div>
 
-<h3>Additional Physics-Informed Methods</h3>
+<h3>STAR-PINN — Stacked Adaptive Residual Networks</h3>
 
 <div class="research-work">
   <h4>STAR-PINN — Stacked Adaptive Residual Networks</h4>
@@ -149,6 +149,8 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   </figure>
   <p><a href="https://doi.org/10.1109/ACCESS.2025.3597869">Paper</a> &nbsp;·&nbsp; <a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">Code</a></p>
 </div>
+
+<h3>Hybrid BEM–PINN for Computational Electromagnetics</h3>
 
 <div class="research-work">
   <h4>Hybrid BEM–PINN for Computational Electromagnetics</h4>
@@ -163,8 +165,6 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 <h2 id="power-energy-systems">AI for Power and Energy Systems</h2>
 
 My research applies machine learning to lightning characterization and power-system protection, particularly through the FELINES research project.
-
-**Selected research:**
 
 <div class="research-work">
   <h4>FELINES — AI for Lightning and Power Systems</h4>
@@ -181,8 +181,6 @@ My research applies machine learning to lightning characterization and power-sys
 <h2 id="biomedical-electromagnetics">AI for Biomedical Electromagnetics</h2>
 
 My research includes generative learning and inverse modeling for patient-specific transcranial magnetic stimulation (TMS), alongside deep-learning surrogate models for rapid assessment of specific absorption rate (SAR) in electromagnetic devices.
-
-**Selected research:**
 
 <div class="research-work">
   <h4>STEM-DEEP — AI for Transcranial Magnetic Stimulation</h4>
@@ -211,8 +209,6 @@ My research includes generative learning and inverse modeling for patient-specif
 <h2 id="geophysical-inversion">Geophysical Inversion and Scientific Computing</h2>
 
 My research covers physics-informed and data-driven approaches to geophysical electromagnetic inverse problems, together with high-performance computational electromagnetics.
-
-**Selected research:**
 
 <div class="research-work">
   <h4>AIGEO — AI for Geophysical Electromagnetic Inversion</h4>
