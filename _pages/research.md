@@ -126,17 +126,58 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   <p><a href="https://arxiv.org/abs/2606.18032">Paper</a> &nbsp;·&nbsp; <a href="https://github.com/ShayanDodge/INI-VPINN">GitHub</a></p>
 </div>
 
+
 <div class="research-work">
-  <h4>2. INI-VPINN — Follow-up Research</h4>
-  <p>A related publication in this research line. The exact methodological contributions and numerical validation results will be added once the publication details are confirmed.</p>
-  <!-- Optional image: upload /images/ini-vpinn-child.png, then remove these comment markers.
+  <h4>2. Geometry-Aware VPINNs — Quadrilateral Mapping vs. Unfitted Domains</h4>
+
+  <p>
+    This follow-up research extends the geometric flexibility of
+    Variational Physics-Informed Neural Networks (VPINNs) for solving
+    partial differential equations on complex domains. Two complementary
+    strategies are developed and compared: an isoparametric mapped
+    weak-form formulation using arbitrary quadrilateral elements, and
+    an unfitted domain approach employing non-conforming rectangular
+    elements without requiring full coverage of the computational domain.
+    These approaches address geometric limitations of conventional
+    VPINNs while offering different trade-offs between boundary
+    representation accuracy and implementation efficiency.
+  </p>
+
+  <p>
+    Numerical validation on electromagnetic problems demonstrates
+    accurate reconstruction of the scalar potential and stable
+    convergence behavior for both approaches. The results highlight
+    how domain complexity, element distribution, and approximation
+    properties influence numerical performance, providing practical
+    guidance for applying weak-form PINNs to irregular geometries.
+  </p>
+
+  <!-- Optional image: upload /images/vpinn-geometry-comparison.png
+       and remove these comment markers.
+
   <figure style="--figure-width: 650px;">
-    <img src="/images/ini-vpinn-child.png" alt="INI-VPINN follow-up results" loading="lazy">
-    <figcaption>Follow-up method and numerical results.</figcaption>
+    <img
+      src="/images/vpinn-geometry-comparison.png"
+      alt="Comparison of isoparametric quadrilateral and unfitted-domain VPINN approaches"
+      loading="lazy"
+    >
+    <figcaption>
+      Comparison of geometry-aware VPINN formulations and
+      electromagnetic scalar-potential reconstruction.
+    </figcaption>
   </figure>
+
   -->
-  <p><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=1usufq0AAAAJ&amp;citation_for_view=1usufq0AAAAJ:MXK_kJrjxJIC">Paper</a></p>
+
+  <p>
+    <a href="https://doi.org/10.1109/TMAG.2026.3745176"
+       target="_blank" rel="noopener noreferrer">Paper</a>
+    |
+    <a href="https://github.com/ShayanDodge/INI-VPINN"
+       target="_blank" rel="noopener noreferrer">GitHub</a>
+  </p>
 </div>
+
 
 <h3>STAR-PINN — Stacked Adaptive Residual Networks</h3>
 
