@@ -142,16 +142,6 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     VPINNs while offering different trade-offs between boundary
     representation accuracy and implementation efficiency.
   </p>
-
-  <p>
-    Numerical validation on electromagnetic problems demonstrates
-    accurate reconstruction of the scalar potential and stable
-    convergence behavior for both approaches. The results highlight
-    how domain complexity, element distribution, and approximation
-    properties influence numerical performance, providing practical
-    guidance for applying weak-form PINNs to irregular geometries.
-  </p>
-
   <!-- Optional image: upload /images/vpinn-geometry-comparison.png  -->
        and remove these comment markers.
 
