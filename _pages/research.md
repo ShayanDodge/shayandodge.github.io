@@ -76,8 +76,6 @@ My research lies at the intersection of **scientific machine learning**, **compu
 
 I investigate physics-informed neural networks (PINNs), variational and weak-form formulations, and neural operators for solving and accelerating electromagnetic partial differential equations.
 
-**Selected research:**
-
 <h3>Neural Operators for Computational Electromagnetics</h3>
 
 <p>This research line investigates physics-informed neural operators for parametric electromagnetic modeling, surrogate simulation, and efficient prediction of electromagnetic field distributions.</p>
