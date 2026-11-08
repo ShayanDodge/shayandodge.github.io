@@ -142,8 +142,6 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     VPINNs while offering different trade-offs between boundary
     representation accuracy and implementation efficiency.
   </p>
-  <!-- Optional image: upload /images/vpinn-geometry-comparison.png  -->
-       and remove these comment markers.
 
   <figure style="--figure-width: 650px;">
     <img
