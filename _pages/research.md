@@ -198,12 +198,12 @@ My research applies machine learning to lightning characterization and power-sys
 <div class="research-work">
   <h4>FELINES — AI for Lightning and Power Systems</h4>
   <p>Within FELINES, I developed machine-learning approaches for lightning localization, peak-current estimation, and lightning-induced overvoltage prediction. These tools support the analysis of lightning phenomena and power-system protection.</p>
-  <!-- Optional figure: upload /images/FELINES.png and remove these comment markers.
+  <!-- Optional figure: upload /images/FELINES.png and remove these comment markers.  -->
   <figure style="--figure-width: 650px;">
     <img src="/images/FELINES.png" alt="FELINES lightning prediction and geolocation results" loading="lazy">
     <figcaption>Lightning geolocation, current estimation, or overvoltage prediction results.</figcaption>
   </figure>
-  -->
+
   <p><a href="https://doi.org/10.1016/j.epsr.2025.111437">Paper</a> &nbsp;·&nbsp; <a href="https://github.com/ShayanDodge/FELINES-Lightning-Forecast">Code</a> &nbsp;·&nbsp; <a href="https://felines.prin.unige.it/">Project</a></p>
 </div>
 
