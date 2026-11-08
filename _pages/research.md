@@ -152,12 +152,12 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     guidance for applying weak-form PINNs to irregular geometries.
   </p>
 
-  <!-- Optional image: upload /images/vpinn-geometry-comparison.png
+  <!-- Optional image: upload /images/vpinn-geometry-comparison.png  -->
        and remove these comment markers.
 
   <figure style="--figure-width: 650px;">
     <img
-      src="/images/vpinn-geometry-comparison.png"
+      src="/images/vpinngeometry.png"
       alt="Comparison of isoparametric quadrilateral and unfitted-domain VPINN approaches"
       loading="lazy"
     >
@@ -167,7 +167,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     </figcaption>
   </figure>
 
-  -->
+
 
   <p>
     <a href="https://doi.org/10.1109/TMAG.2026.3745176"
