@@ -88,6 +88,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     <figcaption>PI-FNO framework and numerical results for nonlinear magnetoquasistatic analysis.</figcaption>
   </figure>
   <p><a href="https://ieeexplore.ieee.org/document/11774833">Paper</a></p>
+  <p><a href="https://ieeexplore.ieee.org/document/11653419">Paper</a></p>
 </div>
 
 <div class="research-work">
