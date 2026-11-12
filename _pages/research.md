@@ -226,8 +226,6 @@ and preventive protection strategies.
   preventive lightning protection systems.
   </p>
 
-  <!-Upload /images/FELINES_protection.png to enable this figure.-->
-
   <figure style="--figure-width: 650px;">
     <img src="/images/FELINES.png"
          alt="Deep-learning prediction of lightning-induced flashover"
