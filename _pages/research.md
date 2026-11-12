@@ -212,7 +212,7 @@ and preventive protection strategies.
 
 <div class="research-work">
 
-  <h4>1. Deep Learning for Predictive Lightning Protection</h4>
+  <h4>1. Deep Learning for Lightning Protection System</h4>
 
   <p>
   This work investigates a deep-learning approach for
