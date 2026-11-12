@@ -87,7 +87,9 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     <img src="/images/PIFNO.png" alt="PI-FNO framework and numerical results" loading="lazy">
     <figcaption>PI-FNO framework and numerical results for nonlinear magnetoquasistatic analysis.</figcaption>
   </figure>
-  <p><a href="https://ieeexplore.ieee.org/document/11774833">Paper 1</a> <a href="https://ieeexplore.ieee.org/document/11653419">Paper 2</a></p>
+  <p><a href="https://ieeexplore.ieee.org/document/11774833">[Paper 1]</a>
+  |
+  <a href="https://ieeexplore.ieee.org/document/11653419">[Paper 2]</a></p>
 </div>
 
 <div class="research-work">
@@ -97,7 +99,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     <img src="/images/WPT.png" alt="PI-DeepONet wireless power transfer results" loading="lazy">
     <figcaption>Parametric electromagnetic field prediction for wireless power transfer systems.</figcaption>
   </figure>
-  <p><a href="https://ieeexplore.ieee.org/document/11717591">Paper</a></p>
+  <p><a href="https://ieeexplore.ieee.org/document/11717591">[Paper]</a></p>
 </div>
 
 <h3>INI-VPINN: Variational Physics-Informed Learning</h3>
@@ -111,7 +113,9 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     <img src="/images/INIVPINN.gif" alt="Original INI-VPINN framework" loading="lazy">
     <figcaption>Original INI-VPINN framework and numerical results.</figcaption>
   </figure>
-  <p><a href="https://arxiv.org/abs/2606.18032">Paper</a> &nbsp;·&nbsp; <a href="https://github.com/ShayanDodge/INI-VPINN">GitHub</a></p>
+  <p><a href="https://arxiv.org/abs/2606.18032">[Paper]</a> 
+  |
+  <a href="https://github.com/ShayanDodge/INI-VPINN">GitHub</a></p>
 </div>
 
 
@@ -147,10 +151,10 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
 
   <p>
     <a href="https://doi.org/10.1109/TMAG.2026.3745176"
-       target="_blank" rel="noopener noreferrer">Paper</a>
+       target="_blank" rel="noopener noreferrer">[Paper]</a>
     |
     <a href="https://github.com/ShayanDodge/INI-VPINN"
-       target="_blank" rel="noopener noreferrer">GitHub</a>
+       target="_blank" rel="noopener noreferrer">[GitHub]</a>
   </p>
 </div>
 
