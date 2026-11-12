@@ -100,18 +100,6 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   <p><a href="https://ieeexplore.ieee.org/document/11717591">Paper</a></p>
 </div>
 
-<div class="research-work">
-  <h4>3. PI-DeepONet for Parametric Electromagnetic Modeling</h4>
-  <p>A physics-informed neural operator framework for efficient parametric modeling of electromagnetic devices, spanning linear and nonlinear magnetostatics to frequency- and time-domain magnetoquasistatics. By incorporating Maxwell's equations, boundary conditions, and material interface constraints into the learning process, PI-DeepONet enables physically consistent, data-efficient prediction of electromagnetic fields.</p>
-  <!-- Optional image: upload /images/PIDeepONet.png, then remove these comment markers.
-  <figure style="--figure-width: 650px;">
-    <img src="/images/PIDeepONet.png" alt="PI-DeepONet parametric electromagnetic modeling results" loading="lazy">
-    <figcaption>PI-DeepONet predictions for parametric electromagnetic modeling.</figcaption>
-  </figure>
-  -->
-  <p><a href="https://ieeexplore.ieee.org/document/11653419">Paper</a></p>
-</div>
-
 <h3>INI-VPINN: Variational Physics-Informed Learning</h3>
 
 <p>This research line investigates variational physics-informed neural networks for solving partial differential equations in complex geometries and multi-material domains.</p>
