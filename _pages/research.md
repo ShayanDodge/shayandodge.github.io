@@ -168,7 +168,9 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     <img src="/images/STARPINN_V2.gif" alt="STAR-PINN framework and nonlinear magnetic diffusion results" loading="lazy">
     <figcaption>STAR-PINN architecture and representative magnetic diffusion results.</figcaption>
   </figure>
-  <p><a href="https://doi.org/10.1109/ACCESS.2025.3597869">Paper</a> &nbsp;·&nbsp; <a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">Code</a></p>
+  <p><a href="https://doi.org/10.1109/ACCESS.2025.3597869">[Paper]</a> 
+  |
+   <a href="https://github.com/ShayanDodge/star-pinn-magnetic-diffusion">[GitHub]</a></p>
 </div>
 
 <h3>Hybrid BEM–PINN for Computational Electromagnetics</h3>
@@ -180,7 +182,9 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
     <img src="/images/BEMPINN.gif" alt="Hybrid BEM–PINN methodology and numerical results" loading="lazy">
     <figcaption>Hybrid BEM–PINN approach and representative numerical results.</figcaption>
   </figure>
-  <p><a href="https://doi.org/10.1109/ACCESS.2024.3500039">Paper</a> &nbsp;·&nbsp; <a href="https://github.com/ShayanDodge/Hybrid-BEM-PINN-Electromagnetics">Code</a></p>
+  <p><a href="https://doi.org/10.1109/ACCESS.2024.3500039">[Paper]</a> 
+  |
+   <a href="https://github.com/ShayanDodge/Hybrid-BEM-PINN-Electromagnetics">[GitHub]</a></p>
 </div>
 
 <h2 id="power-energy-systems">AI for Power and Energy Systems</h2>
