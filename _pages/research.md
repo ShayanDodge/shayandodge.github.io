@@ -115,7 +115,7 @@ I investigate physics-informed neural networks (PINNs), variational and weak-for
   </figure>
   <p><a href="https://arxiv.org/abs/2606.18032">[Paper]</a> 
   |
-  <a href="https://github.com/ShayanDodge/INI-VPINN">GitHub</a></p>
+  <a href="https://github.com/ShayanDodge/INI-VPINN">[GitHub]</a></p>
 </div>
 
 
